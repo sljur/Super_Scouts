@@ -1,2 +1,2 @@
 # Super_Scouts
-Website for Organizing activities for organizations
+## Website for Organizing activities for organizations
