@@ -194,5 +194,5 @@ Super Scouts is an easy to use community based website allowing for easy communi
 
 # Final Value Proposition and Adjusted Intended User Base<br>
 **New Value Proposition:** (This is where that would go)<br>
-**Adjusted User Base:**<br>
+<br>**Adjusted User Base:**<br>
 - (List the people who would be interested after the interviews)
