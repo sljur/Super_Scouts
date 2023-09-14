@@ -34,10 +34,10 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - We discussed the idea of making the website more general, and having pre-loaded page set-ups depending on which organization was using the website, which would possibly lighten our work load.
 
 <br>**Memorable Quotes:**<br>
--"It would be nice to have a central program that had the ability to message or to check things off as completed" This is kind of what we mentioned at meeting, that we would like troops or packs to be able to communicate within their own group;
--"skype+outlook+the social media of facebook+ progression tracking like blackboard thing." Putting this down again because it was an interesting way to look at what we're trying to do, even if that wasn't the main intent; like, I don't think we'll have many skype-like or outlook-like functions, but maybe a discord+blackboard mix?
--" It would be nice to be able to include photos of the particular scout project; scoutbook does not have the ability to upload a photo of rank completion. Like an ability to create a memory; evidence the child completed this task." Uploading images for progression proof!
--" the things with scout books tells you when your monthly dues are due, but no way to directly pay the local council your dues even though scoutbook tells you what money is due. " Ability to pay dues!
+- "It would be nice to have a central program that had the ability to message or to check things off as completed" This is kind of what we mentioned at meeting, that we would like troops or packs to be able to communicate within their own group;
+- "skype+outlook+the social media of facebook+ progression tracking like blackboard thing." Putting this down again because it was an interesting way to look at what we're trying to do, even if that wasn't the main intent; like, I don't think we'll have many skype-like or outlook-like functions, but maybe a discord+blackboard mix?
+- " It would be nice to be able to include photos of the particular scout project; scoutbook does not have the ability to upload a photo of rank completion. Like an ability to create a memory; evidence the child completed this task." Uploading images for progression proof!
+- " the things with scout books tells you when your monthly dues are due, but no way to directly pay the local council your dues even though scoutbook tells you what money is due. " Ability to pay dues!
 
 <br>**Hypotheses (Valid or Invalid):**<br>
 - The social media aspect; that description is still getting to me, because although we did want a communication factor, that's not how we described it to ourselves.
