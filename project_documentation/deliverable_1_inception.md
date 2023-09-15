@@ -106,26 +106,29 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - Direct communication with the scout leader is a must.
 
 ## Interview: 4<br>
-**Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (your name)<br>
-**Interviewee** (Their name here)<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Summary:** We chatted a little about how the Girl Scouts is set up versus Boy Scouts/Scouting, and the fact the Girl Scouts don't even have access to something like ScoutBook, so most of thier documentation is paperwork-based, which means they have to keep track of all the daya-to-day paperwork themselves. She mentioned aspects she thought would be pretty cool - a place to keep their PDfs, a section to list allergies of their scouters to know who was allergic to what, and that a tab dedicated to finances would be pretty cool. Very much insited on the desire for a user friendly interface with easy to understand tabs and sections.<br>
+**Interviewer:** Sami Jurado<br>
+**Interviewee** Meggan Walsh<br>
+**Date:** September 13, 2023; Wednesday, 5:00pm<br>
+**Consumer Segments:** She is a parent who is a Girl Scout leader in her Daughter's Troop.Her daughters were both apart of Scouting prior to joinging Girl Scouts.<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- Currently, Meggan's troop is using a platform called Band to communicate within their troop. It's like Whatsapp, but without the ability to make phone calls. Very limited ability to post any photos, no capacity for calendars. Texting and that it. Because the Girl Scouts have no official app to use, and a lot of red tape in what they are allowed to use, Band has been thier basic go-to, but it's not well-liked.
+- Definetly loves the idea of a troop universal calander to keep everything togther; would also appreacite anything that would make progression tracking more online with less paperwork. Currently, the Girl Scout troop has to print everything out by hand, and does not have acccess to something similar to ScoutBook
+- Was not a a fan of ScoutBook when she used it previously for her kids; for her, it was difficult to navigate and was not user-friendly. in her opinion.(List things you thought were interesting )
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- "Additionally, medical stuff, like allergies; What if you have a new troop leader and they want to bring in a snack? Who is allergic to what? It would be nice if wecould be aware of it." Not something I thought about, and that is more private information than we were looking to host on the website, but not an enitrely bad idea. Perhaps something that could be entered into thier Profile page, if they have a personal account?
+- "Upload images of what they were working on." She is also very much for the ability to post photos to go along with progression tracking as proof of items done. But also wants a place to create albums for events completed or done.
+- "The kids to do GirlScouts cookies, so tracking cookies sales would be nice; and Due’s, what needs to be paid; tracking capability for finance stuff, basically. I hate keeping track of that." So, a way to let them track of thier cookie sales; Scouts does Popcorn Sales as well, and I believe there are many organizations that do thier own fundraising. It might be out of our capability, but it'd be cool to think about.
 
-<br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
-
-<br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+<br>**Hypotheses (Valid):**<br>
+- Really desired a communal calander that was speicifc to scouting and events; which we kind of figured, but it's interesting to know that's a universal complaint.
+- The financials; the idea of having a easy-to-use money tracking system specific to thier desired organization. It seems obvious, because everything takes money, but it really didn't hit me how difficult it would be for parents to juggle that along with all the other bills they need to pay. Again, probably becuase I was the kid when I was in Scouts.
+- The allergy thing; Similar to the financials, it's not generally something I would think about, but a lot of organizations have pot lucks where everyone brings food. Knowing what the majority of people just can't eat is probably a good idea.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+-  Overall, Meggan listed our idea as something VERY nice to have if it existedd, just because although there are many apps out there, they are hard to use and don't do the main things they like to have in one place- which is Progession Tracking, Calanders, and communication all in one place. She would very much jump on having an app that could do all these things.
 
 ## Interview: 5<br>
 **Summary:** (This is where you would summarize your interview)<br>
