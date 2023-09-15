@@ -110,7 +110,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 **Interviewer:** Sami Jurado<br>
 **Interviewee** Meggan Walsh<br>
 **Date:** September 13, 2023; Wednesday, 5:00pm<br>
-**Consumer Segments:** She is a parent who is a Girl Scout leader in her Daughter's Troop.Her daughters were both apart of Scouting prior to joinging Girl Scouts.<br>
+**Consumer Segments:** She is a parent who is a Girl Scout leader in her daughter's Troop.Her daughters were both apart of Scouting prior to joining Girl Scouts.<br>
 
 <br>**Key Insights:**<br>
 - Currently, Meggan's troop is using a platform called Band to communicate within their troop. It's like Whatsapp, but without the ability to make phone calls. Very limited ability to post any photos, no capacity for calendars. Texting and that it. Because the Girl Scouts have no official app to use, and a lot of red tape in what they are allowed to use, Band has been thier basic go-to, but it's not well-liked.
@@ -128,7 +128,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - The allergy thing; Similar to the financials, it's not generally something I would think about, but a lot of organizations have pot lucks where everyone brings food. Knowing what the majority of people just can't eat is probably a good idea.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
--  Overall, Meggan listed our idea as something VERY nice to have if it existedd, just because although there are many apps out there, they are hard to use and don't do the main things they like to have in one place- which is Progession Tracking, Calanders, and communication all in one place. She would very much jump on having an app that could do all these things.
+-  Overall, Meggan listed our idea as something VERY nice to have if it existed, just because although there are many apps out there, they are hard to use and don't do the main things Meggan would like to have in one place- which is Progession Tracking, Calanders, and communication all in one place. She would very much jump on having an app that could do all these things.
 
 ## Interview: 5<br>
 **Summary:** (This is where you would summarize your interview)<br>
