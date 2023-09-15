@@ -132,10 +132,10 @@ Super Scouts is an easy to use community based website allowing for easy communi
 
 ## Interview: 5<br>
 **Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Interviewer:** Patricia Madrid<br>
+**Interviewee** Haydn Halfacre<br>
+**Date:** September 14, 2023<br>
+**Consumer Segments:** Roommate, NAU Dance Team member<br>
 
 <br>**Key Insights:**<br>
 - (List things you thought were interesting )
