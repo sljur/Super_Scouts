@@ -39,7 +39,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - "It would be nice to be able to include photos of the particular scout project; scoutbook does not have the ability to upload a photo of rank completion. Like an ability to create a memory; evidence the child completed this task." Uploading images for progression proof!
 - "The things with scout books tells you when your monthly dues are due, but no way to directly pay the local council your dues even though scoutbook tells you what money is due. " Ability to pay dues!
 
-<br>**Hypotheses (Valid or Invalid):**<br>
+<br>**Hypotheses (Valid):**<br>
 - The social media aspect; that description is still getting to me, because although we did want a communication factor, that's not how we described it to ourselves.
 - They are ways to make Scoutbook better, even though the current system they're using is workable.
 - A fully fleshed out version of our idea will probably take way more time and effort than we have available, even though we might be able to get the bare bones set up.
@@ -67,8 +67,8 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - "I want to be able to add a pack-add a person to my pack by having them scan a QR code. Set them up in there, give them permissions, bada bing bada boom." This one is pretty self-explanatory; Dave wants to use technology to make life easier; interesting, and sounds similar to Discord.
 
 
-<br>**Hypotheses (Valid or Invalid):**<br>
-- The elctronic permission slips; The ability to just go into your phone, find the permission slip that needs signing, sign it electronically, and have the person in charge of the event sign off as well. Basiclaly, remove the need for the printer and having to remember paper permission slips.
+<br>**Hypotheses (Valid):**<br>
+- The electronic permission slips; The ability to just go into your phone, find the permission slip that needs signing, sign it electronically, and have the person in charge of the event sign off as well. Basiclaly, remove the need for the printer and having to remember paper permission slips.
 - The QR code idea; I'm not sure how feasible it is- to have someone added to a pack's or troop's account via a code, but it's not to different from the Idea we already had about links being sent to invite someone.
 -  Reconfirmed the idea that there really is a desire to have a scouting or general app that could keep track of communcation, calendars, Progession tracking, and documents all in one place.
 
