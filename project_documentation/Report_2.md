@@ -11,7 +11,8 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 - In regards to group decisons we opted to go for the simplest choice of the provided 2/3rds vote suggestion. We also agreed that with respect to non-participating members, we decided a warning would be given if 2/3rds of the group deemed it necessary and we would proceed on a situational basis from there.
 - Interviews were a major part of this weeks progress beginning with writing the questions we would be asking. Thes consisted of asking for background information, thoughts on our potential features, criticisms they might have and a value assessment of our project as a whole.
 - In terms of this weeks work each member conducted a series of interviews to determine how should we best design our project with the user in mind. We also began steps to acquiring a server as Evan mentioned he had a hostwinds server we could operate from. Linking our repository and the server became the next step and now that our interviews have been conducted we can begin the design process.
-- We discussed our Initial Value proposition and decided to stick with scouting as our main focus for initial interviews while taking into consideration the application of our project to other group based organizations or clubs for future development. 
+- We discussed our Initial Value proposition and decided to stick with scouting as our main focus for initial interviews while taking into consideration the application of our project to other group based organizations or clubs for future development.
+- After interviews were completed we also discussed our semi-final value proposition and agreed Super Scouts has some utility to non-scouting organizations and could be made more general to appeal to more group activity type environments.
 
 ## Project Retrospective
 - Our project's title "Super Scouts" is likely to change in the coming weeks as we implement user suggestions. We unanimously agreed however it was an excellent name to build off of and would give our project a sense of identity.
@@ -21,4 +22,4 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 ## What Comes Next
 - Following this week's interviews and server linking we will begin the design process from the information we have gathered and the features we dicussed.
 - To encourage progress we set some milestones for our repository. The first of which being the implementation of a first index html file to mark the website's beginning. In general this initial file is likely to be scrapped entirley, but for the immediate future we plan to build the website's structure and work from their.
-- Ultimately we plan to have our website based from a password locked account system and that will shape how the features we discussed will be introduced. 
+- Ultimately we plan to have our website based from a password locked account system and that will shape how the features we discussed will be introduced. A ranking system for groups will also be introduced eventually along with the ability for members to set up events, mark locations of intrest on a digital map and engage with forum discussion with other members.
