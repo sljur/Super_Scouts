@@ -45,7 +45,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - A fully fleshed out version of our idea will probably take way more time and effort than we have available, even though we might be able to get the bare bones set up.
 - Being able to pay for their money dues! I forgot those were a thing, honestly, I wasn't the parent paying for them as a kid.
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - She said it would be a 'Nice to Have' but mentioned it would be a *super cool* nice-to-have if it meant all of the things they needed to access for scouts (Calanders, photos, events, messaging, progression) could be in one centralized location. Ecspecially if the app itself could be private and communcation limited between people in the same troop/pack, so the parents don't have to worry about kids being on another social media platform. They could jsut be on the scouts version. 
 
 ## Interview: 2<br>
@@ -53,51 +53,62 @@ Super Scouts is an easy to use community based website allowing for easy communi
 **Interviewer:** Sami Jurado<br>
 **Interviewee** David Jurado<br>
 **Date:** September 12, 2023; Tuesday at 7:00pm<br>
-**Consumer Segments:** Dave is a parent who is apart of his daughter's cub scout committee as an event coordinator<br>
+**Consumer Segments:** Dave is a parent who is a part of his daughter's cub scout committee as an event coordinator<br>
 
 <br>**Key Insights:**<br>
-- Very vocal about the desire to have communcation, Calenders, and progression tracking all in one place.
-- Something I (the interviewer) didn't realize was that although Dave mentioned that his pack uses email, phones, and facebook messanger to communicate, he explained not all of the adults in his pack have/give out an email for communcation. They view it as personal and don't like sharing it.
-- The main reason he dislikes the ScoutBook app (the official scouting app) is that user intuitiveness is not there.Difficult to navigate.
+- Very vocal about the desire to have communication, calendars, and progression tracking all in one place.
+- Something I (the interviewer) didn't realize was that although Dave mentioned that his pack uses email, phones, and Facebook messenger to communicate, he explained not all of the adults in his pack have/give out an email for communication. They view it as personal and don't like sharing it.
+- The main reason he dislikes the ScoutBook app (the official scouting app) is that user intuitiveness is not there. Difficult to navigate.
 
 <br>**Memorable Quotes:**<br>
 - "Communication and calendars is absolutely a must." 
-- "Tracking advancement would be at the top; in order for this app to work at all, need to be able to keep track of rank advancement." For both communcation, calendars and tracking advancment, he really jsut wants everything in one place.
+- "Tracking advancement would be at the top; in order for this app to work at all, need to be able to keep track of rank advancement." For both communication, calendars, and tracking advancement, he really just wants everything in one place.
 - "...Could be better if we put an event of a hike on calendar, the adult with permissions or older scout RSVPs “I’ll be there” but on the day of, you have the ability to do roll call and check off who actually went based off of RSVP" So basically, and RSVP linked to a Scout's account that that could record who attended what event to keep track of later. ( Things we could implement and/or interesting points discussed )
 - "I want to be able to add a pack-add a person to my pack by having them scan a QR code. Set them up in there, give them permissions, bada bing bada boom." This one is pretty self-explanatory; Dave wants to use technology to make life easier; interesting, and sounds similar to Discord.
 
 
 <br>**Hypotheses (Valid):**<br>
-- The electronic permission slips; The ability to just go into your phone, find the permission slip that needs signing, sign it electronically, and have the person in charge of the event sign off as well. Basiclaly, remove the need for the printer and having to remember paper permission slips.
-- The QR code idea; I'm not sure how feasible it is- to have someone added to a pack's or troop's account via a code, but it's not to different from the Idea we already had about links being sent to invite someone.
--  Reconfirmed the idea that there really is a desire to have a scouting or general app that could keep track of communcation, calendars, Progession tracking, and documents all in one place.
+- The electronic permission slips; The ability to just go into your phone, find the permission slip that needs signing, sign it electronically, and have the person in charge of the event sign off as well. Basically, remove the need for the printer and have to remember paper permission slips.
+- The QR code idea; I'm not sure how feasible it is- to have someone added to a pack's or troop's account via a code, but it's not too different from the Idea we already had about links being sent to invite someone.
+-  Reconfirmed the idea that there really is a desire to have a scouting or general app that could keep track of communication, calendars, Progression tracking, and documents all in one place.
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
-- For Dave, he mentioned that this app was a 'Must have' for him, because in his words, "We live in a digital age and we now have the ability to track kid's achievments from a centralized source; so if kids have to move from state to state, they don’t have to lose out because of the move." He also mentioned that if the website could cover not just scotuing but different organizations, he wouldn't have a problem using the product; but he worries by making it less scouting-specific, it may lose out on the things that would make it useful for any one group. But he does think it would be amazing if it could exist.
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
+- For Dave, he mentioned that this app was a 'Must have' for him, because in his words, "We live in a digital age and we now have the ability to track kid's achievements from a centralized source; so if kids have to move from state to state, they don’t have to lose out because of the move." He also mentioned that if the website could cover not just scouting but different organizations, he wouldn't have a problem using the product; but he worries by making it less scouting-specific, it may lose out on the things that would make it useful for any one group. But he does think it would be amazing if it could exist.
 
 ## Interview: 3<br>
 **Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Interviewer:** Beatriz Ortega<br>
+**Interviewee** Griselda Vitela<br>
+**Date:** September 13, 2023<br>
+**Consumer Segments:** Griselda is a parent who might consider putting her son in a scouting group and has never used any communication app for organizations.<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- Simple layout for the website
+- Needs to be easy communication between a parent and scout leader
+- Event calendar would help keep events organized 
+- Help/tutorial guide of the website
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- “I don’t want to be overwhelmed with too much going on in the site.”
+- "I like the idea of an event calendar because it is nice to have the events listed all in one place."
+- "If I were to ever let him join a scouting group I know I'd have tons of questions so it is important I have communication with whoever would be responsible for him."
+- "A website like this sounds like a good idea. Having everything in one place would allow me to not stress about me possibly missing anything."
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- We never thought of any sort of help/tutorial guide on how the website works. Some parents may not be computer-savvy or never used a site like this so they might struggle to know what is what on the site. We can have a help guide page that explains the different aspects of the website. Another option is the pages we end up having could provide a brief summary of what it covers or its purpose.
+- The website needs to be easy to navigate with a simple design/layout.
+- This definitely reconfirmed the idea of having a website where everything such as event calendars and communication is in one place when it comes to scouts/organizations.
 
 <br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+- A simple and easy-to-navigate layout is a must.
+- A sort of help or tutorial guide on the website is nice to have.
+- Event calendar is a must.
+- Direct communication with the scout leader is a must.
 
 ## Interview: 4<br>
 **Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
+**Interviewer:** (your name)<br>
+**Interviewee** (Their name here)<br>
 **Date:** (Whenever you talked to them)<br>
 **Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
 
@@ -113,7 +124,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 5<br>
@@ -132,7 +143,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 6<br>
@@ -151,7 +162,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 7<br>
@@ -170,7 +181,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 8<br>
@@ -189,7 +200,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 9<br>
@@ -208,7 +219,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
 
-<br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
+<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 
