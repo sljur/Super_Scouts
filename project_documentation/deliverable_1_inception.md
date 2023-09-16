@@ -203,23 +203,30 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - The specific features regarding scheduleing and community discussions were given as justification as well, claiming they would be very helpful quality of life features in group settings. 
 
 ## Interview: 8<br>
-**Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Summary:** Jorja is not a member of scouting, but she is involved with several club or group based organizations on campus. In the interview we discussed communication and what were the biggest flaws and successes of how the groups she knows communicated. The biggest drawback of already existent communication methods in a group (text, email, etc.) was the lack of a report feature for personal issues and potential conflict between group members. While she liked the overall concept of a website used for group settings, the emphasis on scouting to the overall project would take away from the utility of the website in a more general context.<br>
+**Interviewer:** Benjamin Huntoon<br>
+**Interviewee** Jorja Whitcher<br>
+**Date:** 9/13/23<br>
+**Consumer Segments:** Member of the Energy Club and the Theta Tau Engineering fraternity<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- Conflict resolution should become an important part of the website's structure.
+- File/Location sharing would be something unique among other group based apps or websites.
+- Overall the concept would be a good alternative to an email chain or group text for organizing group activities.
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- "Overall communication is the biggest issue, people would either never hear about an event or just out right not respond to planned group activities or messsages"
+- "It was difficult to communicate issues, mostly personal issues, as there is generally no anonymous or private way to report problems to group leaders"
+- "Inputting ranks could make some people feel less important/valuable than others."
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- The ability for group leaders to sign off and plan events would be a very useful tool.
+- Member ranks could lead to a less inclusive space online.
+- File and location sharing would be really helpful tools for planning group activities.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+- Jorja listed this concept as a Nice to have item, citing the purpose as too specific for general use, but that it was a good idea overall.
+- The ability to plan events on the website was given as a key feature that would  be useful ina group setting.
 
 ## Interview: 9<br>
 **Summary:** (This is where you would summarize your interview)<br>
