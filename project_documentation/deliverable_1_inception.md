@@ -76,7 +76,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - For Dave, he mentioned that this app was a 'Must have' for him, because in his words, "We live in a digital age and we now have the ability to track kid's achievements from a centralized source; so if kids have to move from state to state, they don’t have to lose out because of the move." He also mentioned that if the website could cover not just scouting but different organizations, he wouldn't have a problem using the product; but he worries by making it less scouting-specific, it may lose out on the things that would make it useful for any one group. But he does think it would be amazing if it could exist.
 
 ## Interview: 3<br>
-**Summary:** (This is where you would summarize your interview)<br>
+**Summary:** Griselda and I discussed what she would like in a website for scouting if she were to ever consider putting her son in a scout group. She likes the idea of a website where she can communicate with others and have all the information, such as events, in one place.<br>
 **Interviewer:** Beatriz Ortega<br>
 **Interviewee** Griselda Vitela<br>
 **Date:** September 13, 2023<br>
@@ -114,21 +114,21 @@ Super Scouts is an easy to use community based website allowing for easy communi
 
 <br>**Key Insights:**<br>
 - Currently, Meggan's troop is using a platform called Band to communicate within their troop. It's like Whatsapp, but without the ability to make phone calls. Very limited ability to post any photos, no capacity for calendars. Texting and that it. Because the Girl Scouts have no official app to use, and a lot of red tape in what they are allowed to use, Band has been thier basic go-to, but it's not well-liked.
-- Definetly loves the idea of a troop universal calander to keep everything togther; would also appreacite anything that would make progression tracking more online with less paperwork. Currently, the Girl Scout troop has to print everything out by hand, and does not have acccess to something similar to ScoutBook
-- Was not a a fan of ScoutBook when she used it previously for her kids; for her, it was difficult to navigate and was not user-friendly. in her opinion.(List things you thought were interesting )
+- Definitely loves the idea of a troop universal calendar to keep everything together; would also appreacite anything that would make progression tracking more online with less paperwork. Currently, the Girl Scout troop has to print everything out by hand, and does not have access to something similar to ScoutBook
+- Was not a fan of ScoutBook when she used it previously for her kids; for her, it was difficult to navigate and was not user-friendly. in her opinion.(List things you thought were interesting )
 
 <br>**Memorable Quotes:**<br>
-- "Additionally, medical stuff, like allergies; What if you have a new troop leader and they want to bring in a snack? Who is allergic to what? It would be nice if wecould be aware of it." Not something I thought about, and that is more private information than we were looking to host on the website, but not an enitrely bad idea. Perhaps something that could be entered into thier Profile page, if they have a personal account?
+- "Additionally, medical stuff, like allergies; What if you have a new troop leader and they want to bring in a snack? Who is allergic to what? It would be nice if we could be aware of it." Not something I thought about, and that is more private information than we were looking to host on the website, but not an entirely bad idea. Perhaps something that could be entered into their Profile page, if they have a personal account?
 - "Upload images of what they were working on." She is also very much for the ability to post photos to go along with progression tracking as proof of items done. But also wants a place to create albums for events completed or done.
-- "The kids to do GirlScouts cookies, so tracking cookies sales would be nice; and Due’s, what needs to be paid; tracking capability for finance stuff, basically. I hate keeping track of that." So, a way to let them track of thier cookie sales; Scouts does Popcorn Sales as well, and I believe there are many organizations that do thier own fundraising. It might be out of our capability, but it'd be cool to think about.
+- "The kids to do GirlScouts cookies, so tracking cookies sales would be nice; and Due’s, what needs to be paid; tracking capability for finance stuff, basically. I hate keeping track of that." So, a way to let them track of their cookie sales; Scouts does Popcorn Sales as well, and I believe there are many organizations that do their own fundraising. It might be out of our capability, but it'd be cool to think about.
 
 <br>**Hypotheses (Valid):**<br>
-- Really desired a communal calander that was speicifc to scouting and events; which we kind of figured, but it's interesting to know that's a universal complaint.
-- The financials; the idea of having a easy-to-use money tracking system specific to thier desired organization. It seems obvious, because everything takes money, but it really didn't hit me how difficult it would be for parents to juggle that along with all the other bills they need to pay. Again, probably becuase I was the kid when I was in Scouts.
-- The allergy thing; Similar to the financials, it's not generally something I would think about, but a lot of organizations have pot lucks where everyone brings food. Knowing what the majority of people just can't eat is probably a good idea.
+- Really desired a communal calander that was specific to scouting and events; which we kind of figured, but it's interesting to know that's a universal complaint.
+- The financials; the idea of having an easy-to-use money tracking system specific to their desired organization. It seems obvious because everything takes money, but it really didn't hit me how difficult it would be for parents to juggle that along with all the other bills they need to pay. Again, probably because I was the kid when I was in Scouts.
+- The allergy thing; Similar to the financials, it's not generally something I would think about, but a lot of organizations have potlucks where everyone brings food. Knowing what the majority of people just can't eat is probably a good idea.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
--  Overall, Meggan listed our idea as something VERY nice to have if it existed, just because although there are many apps out there, they are hard to use and don't do the main things Meggan would like to have in one place- which is Progession Tracking, Calanders, and communication all in one place. She would very much jump on having an app that could do all these things.
+-  Overall, Meggan listed our idea as something VERY nice to have if it existed, just because although there are many apps out there, they are hard to use and don't do the main things Meggan would like to have in one place- which is Progression Tracking, Calendars, and communication all in one place. She would very much jump on having an app that could do all these things.
 
 ## Interview: 5<br>
 **Summary:** (This is where you would summarize your interview)<br>
@@ -144,25 +144,25 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - ( Things we could implement and/or interesting points discussed )
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- (What did they have to say that we didn't think about or what did they confirm to us that we did think about?)
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 6<br>
-**Summary:** Due to busy schedules, we both decided it was better to have specific questions answered via email. Amber is VP of a fraternity organization called Kappa Kappa Psi, which specializes in helping other music ensembles on-campus. For the organization's communication, they use Email for formal communication and the BAND app for informal communication. Due to being a recognized organization, they must send information through multiple people in their hierarchy before it goes where it needs to, so the speed at which that happens is very important. For a new tool like this to be implemented for them, it would have to condense and mainstream communication, document storage, and website information; otherwise, it is a "Don't Care" for them.<br>
+**Summary:** Due to busy schedules, we both decided it was better to have specific questions answered via email. Amber is VP of a fraternity organization called Kappa Kappa Psi, which specializes in helping other music ensembles on campus. For the organization's communication, they use Email for formal communication and the BAND app for informal communication. Due to being a recognized organization, they must send information through multiple people in their hierarchy before it goes where it needs to, so the speed at which that happens is very important. For a new tool like this to be implemented for them, it would have to condense and mainstream communication, document storage, and website information; otherwise, it is a "Don't Care" for them.<br>
 **Interviewer:** Dalton Tippings<br>
 **Interviewee** Amber Young<br>
 **Date:** September 15th, 2023<br>
-**Consumer Segments:** She is a student at NAU and the VP of Kappa Kappa Psi, a fraternity organization dedicated to providing support to multiple music ensembles on-campus.<br>
+**Consumer Segments:** She is a student at NAU and the VP of Kappa Kappa Psi, a fraternity organization dedicated to providing support to multiple music ensembles on campus.<br>
 
 <br>**Key Insights:**<br>
 - For their organization, they use multiple websites for information, storage, and different forms of communication. Could make a hub for access to all of that information.
-- Have a way to combine formal and informal communication would eliminate using two separate applications, also would be less taxing on the members.
+- Having a way to combine formal and informal communication would eliminate using two separate applications, and also would be less taxing on the members.
 - "Signing off members" was an interest. Could add in more actions higher-up members could use.
 
 <br>**Memorable Quotes:**<br>
-- "Adding more methods of communication tends to be taxing on us and our officers, however, ways to condense and mainstream this information would be something we would be greatly interested  in. Particularly, the google drives (which we use for just document storage), chapter website, and official communication."
+- "Adding more methods of communication tends to be taxing on us and our officers, however, ways to condense and mainstream this information would be something we would be greatly interested  in. Particularly, the Google drives (which we use for just document storage), chapter website, and official communication."
 - "The biggest gripe about our communication is that to use E-Mail we have to send it to our organization list serve. Then our Secretary has to approve it which can take a long time and sometimes the email never gets through the list serve making communication a nightmare especially if it’s important and urgent information."
 - "The most prevalent issue is members sending out information in advance and not last minute."
 - "Chats (multiple) for communication would be helpful"
@@ -173,8 +173,8 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - For mainstreaming information, being able to connect to other social media used for Alumni connections would be useful
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- The organization would consider this a "Don't Care", unless it could condense and mainstream multiple aspects: multiple forms of communication, document storage, easily accessible information to display on chapter's website (besides it being dedicated to Scouting).
-- Amber believed the following propsed features could benefit them: person in charge signing off items, ability to add/remove events, and uploading of documents.
+- The organization would consider this a "Don't Care", unless it could condense and mainstream multiple aspects: multiple forms of communication, document storage, easily accessible information to display on the chapter's website (besides it being dedicated to Scouting).
+- Amber believed the following proposed features could benefit them: person in charge of signing off items, ability to add/remove events, and uploading of documents.
 
 ## Interview: 7<br>
 **Summary:** We discussed Calista's history in scouting and what were the largest issues in her experience with the organization. By far event planning was the largest issue in terms of both communication and transportation. While she did spend several years in scouting, much of Calista's experience is from her childhood so I began to ask about her experience in management and if there were any similar issues to those from her scouting experience. Communication again was the largest issue she could think of, remarking how in both email and texts were largely the only tools for communication in both settings.<br>
@@ -186,24 +186,24 @@ Super Scouts is an easy to use community based website allowing for easy communi
 <br>**Key Insights:**<br>
 - For pool management, email is used as a primary communication tool, the ability to send email notifications would be a welcome feature.
 - Group leaders allowed to create events would simplify the planning process greatly.
-- Group specific websites similar to our concept already exist (Red Cross website), a general website would be a useful tool.
+- Group-specific websites similar to our concept already exist (Red Cross website), a general website would be a useful tool.
 
 <br>**Memorable Quotes:**<br>
 - "If I were still a Girl Scout leader I would use all of these features. As an instructor for the Red Cross there is a website similar to what you are describing and I have used it since it started operating"
-- "The most prevalent issue with troop leaders not communicating and being unable to find transportation so meetings were often cancled between the two"
+- "The most prevalent issue with troop leaders not communicating and being unable to find transportation so meetings were often canceled between the two"
 - "Leaders would communicate last minute, sometimes members would already be at the location of the meeting and they would just tell us the that the meeting was canceled"
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- Confirmation that a group based website has utility beyond a scouting context.
+- Confirmation that a group-based website has utility beyond a scouting context.
 - Event planning should be one of the primary focuses of our project.
-- A platform for group communication in a general context would be excellent for group based organizations.
+- A platform for group communication in a general context would be excellent for group-based organizations.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- Calista considered the project as a must have, citing the convenience of being able to have group discussions and event planning on the same platform.
-- The specific features regarding scheduleing and community discussions were given as justification as well, claiming they would be very helpful quality of life features in group settings. 
+- Calista considered the project a must-have, citing the convenience of being able to have group discussions and event planning on the same platform.
+- The specific features regarding scheduling and community discussions were given as justification as well, claiming they would be very helpful quality of life features in group settings. 
 
 ## Interview: 8<br>
-**Summary:** Jorja is not a member of scouting, but she is involved with several club or group based organizations on campus. In the interview we discussed communication and what were the biggest flaws and successes of how the groups she knows communicated. The biggest drawback of already existent communication methods in a group (text, email, etc.) was the lack of a report feature for personal issues and potential conflict between group members. While she liked the overall concept of a website used for group settings, the emphasis on scouting to the overall project would take away from the utility of the website in a more general context.<br>
+**Summary:** Jorja is not a member of scouting, but she is involved with several club or group-based organizations on campus. In the interview we discussed communication and what were the biggest flaws and successes of how the groups she knows communicated. The biggest drawback of already existent communication methods in a group (text, email, etc.) was the lack of a report feature for personal issues and potential conflict between group members. While she liked the overall concept of a website used for group settings, the emphasis on scouting to the overall project would take away from the utility of the website in a more general context.<br>
 **Interviewer:** Benjamin Huntoon<br>
 **Interviewee** Jorja Whitcher<br>
 **Date:** 9/13/23<br>
@@ -215,7 +215,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - Overall the concept would be a good alternative to an email chain or group text for organizing group activities.
 
 <br>**Memorable Quotes:**<br>
-- "Overall communication is the biggest issue, people would either never hear about an event or just out right not respond to planned group activities or messsages"
+- "Overall communication is the biggest issue, people would either never hear about an event or just outright not respond to planned group activities or messages"
 - "It was difficult to communicate issues, mostly personal issues, as there is generally no anonymous or private way to report problems to group leaders"
 - "Inputting ranks could make some people feel less important/valuable than others."
 
@@ -226,7 +226,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - Jorja listed this concept as a Nice to have item, citing the purpose as too specific for general use, but that it was a good idea overall.
-- The ability to plan events on the website was given as a key feature that would  be useful ina group setting.
+- The ability to plan events on the website was given as a key feature that would  be useful in a group setting.
 
 ## Interview: 9<br>
 **Summary:** (This is where you would summarize your interview)<br>
@@ -242,7 +242,7 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - ( Things we could implement and/or interesting points discussed )
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- (What did they have to say that we didn't think about or what did they confirm to us that we did think about?)
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - (List what their overall thoughts were and specific features that they had a reaction to)
