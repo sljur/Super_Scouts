@@ -150,23 +150,31 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 ## Interview: 6<br>
-**Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Summary:** Due to busy schedules, we both decided it was better to have specific questions answered via email. Amber is VP of a fraternity organization called Kappa Kappa Psi, which specializes in helping other music ensembles on-campus. For the organization's communication, they use Email for formal communication and the BAND app for informal communication. Due to being a recognized organization, they must send information through multiple people in their hierarchy before it goes where it needs to, so the speed at which that happens is very important. For a new tool like this to be implemented for them, it would have to condense and mainstream communication, document storage, and website information; otherwise, it is a "Don't Care" for them.<br>
+**Interviewer:** Dalton Tippings<br>
+**Interviewee** Amber Young<br>
+**Date:** September 15th, 2023<br>
+**Consumer Segments:** She is a student at NAU and the VP of Kappa Kappa Psi, a fraternity organization dedicated to providing support to multiple music ensembles on-campus.<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- For their organization, they use multiple websites for information, storage, and different forms of communication. Could make a hub for access to all of that information.
+- Have a way to combine formal and informal communication would eliminate using two separate applications, also would be less taxing on the members.
+- "Signing off members" was an interest. Could add in more actions higher-up members could use.
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- "Adding more methods of communication tends to be taxing on us and our officers, however, ways to condense and mainstream this information would be something we would be greatly interested  in. Particularly, the google drives (which we use for just document storage), chapter website, and official communication."
+- "The biggest gripe about our communication is that to use E-Mail we have to send it to our organization list serve. Then our Secretary has to approve it which can take a long time and sometimes the email never gets through the list serve making communication a nightmare especially if it’s important and urgent information."
+- "The most prevalent issue is members sending out information in advance and not last minute."
+- "Chats (multiple) for communication would be helpful"
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- Did think that a chat system along with it would be very beneficial
+- Brought up how having multiple forms of information/chats in one place would increase efficiency within the organization
+- For mainstreaming information, being able to connect to other social media used for Alumni connections would be useful
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+- The organization would consider this a "Don't Care", unless it could condense and mainstream multiple aspects: multiple forms of communication, document storage, easily accessible information to display on chapter's website (besides it being dedicated to Scouting).
+- Amber believed the following propsed features could benefit them: person in charge signing off items, ability to add/remove events, and uploading of documents.
 
 ## Interview: 7<br>
 **Summary:** (This is where you would summarize your interview)<br>
