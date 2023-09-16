@@ -177,23 +177,30 @@ Super Scouts is an easy to use community based website allowing for easy communi
 - Amber believed the following propsed features could benefit them: person in charge signing off items, ability to add/remove events, and uploading of documents.
 
 ## Interview: 7<br>
-**Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
+**Summary:** We discussed Calista's history in scouting and what were the largest issues in her experience with the organization. By far event planning was the largest issue in terms of both communication and transportation. While she did spend several years in scouting, much of Calista's experience is from her childhood so I began to ask about her experience in management and if there were any similar issues to those from her scouting experience. Communication again was the largest issue she could think of, remarking how in both email and texts were largely the only tools for communication in both settings.<br>
+**Interviewer:** Benjamin Huntoon<br>
+**Interviewee** Calista Matthews<br>
+**Date:** 9/15/23<br>
+**Consumer Segments:** Calista is the manager of the city pools in Kingman Arizona, an instructor for the Red Cross and a former Girl Scouts member/leader<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- For pool management, email is used as a primary communication tool, the ability to send email notifications would be a welcome feature.
+- Group leaders allowed to create events would simplify the planning process greatly.
+- Group specific websites similar to our concept already exist (Red Cross website), a general website would be a useful tool.
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- "If I were still a Girl Scout leader I would use all of these features. As an instructor for the Red Cross there is a website similar to what you are describing and I have used it since it started operating"
+- "The most prevalent issue with troop leaders not communicating and being unable to find transportation so meetings were often cancled between the two"
+- "Leaders would communicate last minute, sometimes members would already be at the location of the meeting and they would just tell us the that the meeting was canceled"
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didnt think about or what did they confirm to us that we did think about?)
+- Confirmation that a group based website has utility beyond a scouting context.
+- Event planning should be one of the primary focuses of our project.
+- A platform for group communication in a general context would be excellent for group based organizations.
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+- Calista considered the project as a must have, citing the convenience of being able to have group discussions and event planning on the same platform.
+- The specific features regarding scheduleing and community discussions were given as justification as well, claiming they would be very helpful quality of life features in group settings. 
 
 ## Interview: 8<br>
 **Summary:** (This is where you would summarize your interview)<br>
