@@ -17,7 +17,19 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 ## Project Retrospective
 - Our project's title "Super Scouts" is likely to change in the coming weeks as we implement user suggestions. We unanimously agreed however it was an excellent name to build off of and would give our project a sense of identity.
 - Considering the requirements for these projects as mentioned in class, we looked forward as to how or when we might be able to implement C/C++ code into our project where it would exist as a web based program almost entirely. With some research our most likely option is implementing JavaScript in some capacity using a C++ program for supplementary functions or utility.
-- Connecting the parts of this project is still a daunting task, however with the creation of our repository we have a base to build upon. In the coming weeks we will begin designing and writing code and give structure to our suggested features. 
+- Connecting the parts of this project is still a daunting task, however with the creation of our repository we have a base to build upon. In the coming weeks we will begin designing and writing code and give structure to our suggested features.
+
+### Activity Check list
+1. Everyone this week did an amazing job with interviews, there was some concern during our meeting that we did not all know people in scouting to interview, but everyone pulled through and we got the data we needed. Evan offered his hostwinds server for us to use for this project and did an awesome job setting it up so we could get working next week.
+
+2. In terms of successes, this week the division of labor for the interviewing process went perfectly. We each talked to lots of people from different backgrounds with different perspectives allowing for a more complete picture of what our project will look like down the road.
+
+3. We did not have any glaring failures for this weeks work. 
+
+4. Finding the right people to interview or otherwise reply to a survey was a major barrier this week.
+
+5. In terms of improvements for next time, I don't think there is much that could be improved, but communication on a day to day basis always leads to better results. 
+   
 
 ## What Comes Next
 - Following this week's interviews and server linking we will begin the design process from the information we have gathered and the features we dicussed.
