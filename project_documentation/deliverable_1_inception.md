@@ -3,7 +3,7 @@
 *Group Members: Samantha Jurado, Evan Palmisano, Beatriz Ortega, Patricia Madrid, Benjamin Huntoon, Dalton Tippings*<br>
 
 # Introduction:<br>
-Humans are social creatures by nature, for centuries we have survived through communication and collaboration, why in the age of the Internet should we strive for anything less? We are more connected to each other now than we have ever been in history and yet when working in a scouting troop or similar community-based organization; planning events and group discussions can be difficult, especially between members from different generations. Super Scouts is a website designed to optimize group and community activities through intuitive design and easy-to-use features. Users sign up and are either given a code from our site or from their troop leader, allowing for easy creation and joining of online groups. Groups on our site will be able to enjoy file sharing, forum discussion, and community posts from other members of their troop. Future work could include geolocation to allow troop leaders to mark trails.
+Humans are social creatures by nature, for centuries we have survived through communication and collaboration, why in the age of the Internet should we strive for anything less? We are more connected to each other now than we have ever been in history and yet when working in a scouting troop or similar community-based organization; planning events and group discussions can be difficult, especially between members from different generations. Super Scouts is a website designed to optimize group and community activities through intuitive design and easy-to-use features. Users sign up and are either given a code from our site or their troop leader, allowing for easy creation and joining of online groups. Groups on our site will be able to enjoy file sharing, forum discussion, and community posts from other members of their troop. Future work could include geolocation to allow troop leaders to mark trails.
 
 # Our Initial Value Proposition and Our Intended User Base
 **Initial Value Proposition:** 
@@ -21,7 +21,7 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 
 # Interviews:
 ## Interview: 1<br>
-**Summary:** Sonya and I mostly discussed how our idea, based on the interview questions, sounds like a social media app but for scouts; she likes the idea as a nice-to-have, but would be very cool if she were able to keep track of the kids progress and then be able to print out what everyone did at the end of the month. She also thought it would be cool if we were able to post photos as proof of project completion, and if there was a centralized system instead of having to use facebook messenger, scoutbook, and regular phone calls and texts to communicate with everyone.<br>
+**Summary:** Sonya and I mostly discussed how our idea, based on the interview questions, sounds like a social media app but for scouts; she likes the idea as a nice-to-have, but would be very cool if she were able to keep track of the kids progress and then be able to print out what everyone did at the end of the month. She also thought it would be cool if we were able to post photos as proof of project completion, and if there was a centralized system instead of having to use Facebook messenger, scoutbook, and regular phone calls and texts to communicate with everyone.<br>
 **Interviewer:** Sami Jurado<br>
 **Interviewee** Sonya Jurado<br>
 **Date:** September 12th, 2023; Tuesday at 3:00pm <br>
@@ -92,25 +92,24 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 - “I don’t want to be overwhelmed with too much going on in the site.”
 - "I like the idea of an event calendar because it is nice to have the events listed all in one place."
 - "If I were to ever let him join a scouting group I know I'd have tons of questions so it is important I have communication with whoever would be responsible for him."
-- "A website like this sounds like a good idea. Having everything in one place would allow me to not stress about me possibly missing anything."
+- "A website like this sounds like a good idea. Having everything in one place would allow me to not stress about possibly missing anything."
 
 <br>**Hypotheses (Valid or Invalid):**<br>
 - We never thought of any sort of help/tutorial guide on how the website works. Some parents may not be computer-savvy or never used a site like this so they might struggle to know what is what on the site. We can have a help guide page that explains the different aspects of the website. Another option is the pages we end up having could provide a brief summary of what it covers or its purpose.
 - The website needs to be easy to navigate with a simple design/layout.
-- This definitely reconfirmed the idea of having a website where everything such as event calendars and communication is in one place when it comes to scouts/organizations.
+- This reconfirmed the idea of having a website where everything such as event calendars and communication is in one place when it comes to scouts/organizations.
 
 <br>**Is Super Scouts! a Must/Need/Don't Care:**<br>
-- A simple and easy-to-navigate layout is a must.
+- Overall, Super Scouts is a must. To have everything in one place would be convenient for parents.
+- A simple and easy-to-navigate layout, event calendar, and direct communication with the scout leader are a must.
 - A sort of help or tutorial guide on the website is nice to have.
-- Event calendar is a must.
-- Direct communication with the scout leader is a must.
 
 ## Interview: 4<br>
 **Summary:** We chatted a little about how the Girl Scouts is set up versus Boy Scouts/Scouting, and the fact the Girl Scouts don't even have access to something like ScoutBook, so most of their documentation is paperwork-based, which means they have to keep track of all the day-to-day paperwork themselves. She mentioned aspects she thought would be pretty cool - a place to keep their PDfs, a section to list allergies of their scouters to know who was allergic to what, and that a tab dedicated to finances would be pretty cool. Very much insistent on the desire for a user-friendly interface with easy to understand tabs and sections.<br>
 **Interviewer:** Sami Jurado<br>
 **Interviewee** Meggan Walsh<br>
 **Date:** September 13, 2023; Wednesday, 5:00pm<br>
-**Consumer Segments:** She is a parent who is a Girl Scout leader in her daughter's Troop.Her daughters were both apart of Scouting prior to joining Girl Scouts.<br>
+**Consumer Segments:** She is a parent who is a Girl Scout leader in her daughter's Troop. Her daughters were both part of Scouting prior to joining Girl Scouts.<br>
 
 <br>**Key Insights:**<br>
 - Currently, Meggan's troop is using a platform called Band to communicate within their troop. It's like Whatsapp, but without the ability to make phone calls. Very limited ability to post any photos, no capacity for calendars. Texting and that it. Because the Girl Scouts have no official app to use, and a lot of red tape in what they are allowed to use, Band has been their basic go-to, but it's not well-liked.
@@ -229,7 +228,7 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 - The ability to plan events on the website was given as a key feature that would  be useful in a group setting.
 
 ## Interview: 9<br>
-**Summary:** Clyde Allen is an Assistant Manager at the University of Washingtion for Lab Studies. He is also a key role player in the Ventura County Council National Youth Leadership Training. Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need." said Mr. Allen. <br>
+**Summary:** Clyde Allen is an Assistant Manager at the University of Washington for Lab Studies. He is also a key role player in the Ventura County Council National Youth Leadership Training. Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need," said Mr. Allen. <br>
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Clyde Allen<br>
 **Date:** 9/16/23<br>
