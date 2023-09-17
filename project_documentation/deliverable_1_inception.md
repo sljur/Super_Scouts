@@ -248,11 +248,6 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 - (List what their overall thoughts were and specific features that they had a reaction to)
 
 
-# Final Value Proposition and Adjusted Intended User Base<br>
-**New Value Proposition:** (This is where that would go)<br>
-<br>**Adjusted User Base:**<br>
-- (List the people who would be interested after the interviews)
-
 ## Interview: 9<br>
 **Summary:** Clyde Allen is an Assistant Manager at the University of Washingtion for Lab Studies. He is also a key role player in the Ventura County Council National Youth Leadership Training. Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need." said Mr. Allen. <br>
 **Interviewer:** Evan Palmisano<br>
@@ -299,3 +294,8 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
 - Mr. Hong said that our product would be really, really, nice to have. 
 I interpret that as they are functionally getting by with their current form of communication and that this would be an upgrade.
+
+# Final Value Proposition and Adjusted Intended User Base<br>
+**New Value Proposition:** (This is where that would go)<br>
+<br>**Adjusted User Base:**<br>
+- (List the people who would be interested after the interviews)
