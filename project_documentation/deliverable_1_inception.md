@@ -229,26 +229,6 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 - The ability to plan events on the website was given as a key feature that would  be useful in a group setting.
 
 ## Interview: 9<br>
-**Summary:** (This is where you would summarize your interview)<br>
-**Interviewer:** (Your name here )<br>
-**Interviewee** ( Their name here )<br>
-**Date:** (Whenever you talked to them)<br>
-**Consumer Segments:** ( Who are they? Are they in a club, teacher? or something else?)<br>
-
-<br>**Key Insights:**<br>
-- (List things you thought were interesting )
-
-<br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
-
-<br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didn't think about or what did they confirm to us that we did think about?)
-
-<br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
-
-
-## Interview: 9<br>
 **Summary:** Clyde Allen is an Assistant Manager at the University of Washingtion for Lab Studies. He is also a key role player in the Ventura County Council National Youth Leadership Training. Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need." said Mr. Allen. <br>
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Clyde Allen<br>
