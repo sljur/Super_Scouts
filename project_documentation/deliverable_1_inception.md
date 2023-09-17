@@ -282,6 +282,13 @@ the manyu feautures that clubs like the dance team or other sororities could use
 I interpret that as they are functionally getting by with their current form of communication and that this would be an upgrade.
 
 # Final Value Proposition and Adjusted Intended User Base<br>
-**New Value Proposition:** (This is where that would go)<br>
+**New Value Proposition:** Super Scouts is  an intuitive, community centered website that allows for group planning and organization with a basis on progression  tracking and community events.<br>
 <br>**Adjusted User Base:**<br>
-- (List the people who would be interested after the interviews)
+- Tech savvy people
+- Non-tech savvy people
+- Parents
+- Kids
+- Group Leaders
+- Group Members
+- Clubs
+- Scouts
