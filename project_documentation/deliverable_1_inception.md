@@ -228,11 +228,11 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 - The ability to plan events on the website was given as a key feature that would  be useful in a group setting.
 
 ## Interview: 9<br>
-**Summary:** Clyde Allen is an Assistant Manager at the University of Washington for Lab Studies. He is also a key role player in the Ventura County Council National Youth Leadership Training. Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need," said Mr. Allen. <br>
+**Summary:** Our main topic of the interview was the fact that youth participants don't respond or refuse to engage in communication. "Youth only respond, and then only occasionally, to text messages.  However, text messages are not adequate for conveying full details for any given communication need," said Mr. Allen. <br>
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Clyde Allen<br>
 **Date:** 9/16/23<br>
-**Consumer Segments:** <br>
+**Consumer Segments:** Mr. Allen is National Youth Leadership Training Back Up Course Director and  Wood Badge Course Director.<br>
 
 <br>**Key Insights:**<br>
 - Biggest issue was about youth involvement and the quantity and quality of responses.
@@ -255,7 +255,7 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Thom Hong<br>
 **Date:** 9/16/23<br>
-**Consumer Segments:** <br>
+**Consumer Segments:** Mr. Hong is a Council STEM Coordinator and adult staff for Ventura County Council National Youth Leadership Training<br>
 
 <br>**Key Insights:**<br>
 - Large text chats are distracting and can have a low signal-to-noise ratio
