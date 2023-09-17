@@ -131,11 +131,11 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 
 ## Interview: 5<br>
 **Summary:** Because Haydn has not done Scouting, we discussed the website in a more general sense and how the website can be used more generally by many other organizations such as different athletic clubs and organizations. We talked about 
-the manyu feautures that clubs like the dance team or other sororities could use such as progression tracking. Lastly, we discussed how the website would be unique and how it could be different from other similar sites/apps. <br>
+the manyu feautures that clubs like the dance team or other sororities could use such as progression tracking, event tracking, file uploads, and 'Question' threads/chats. Lastly, we discussed how the website would be unique and how it could be different from other similar sites/apps. <br>
 **Interviewer:** Patricia Madrid<br>
 **Interviewee** Haydn Halfacre<br>
 **Date:** September 14, 2023<br>
-**Consumer Segments:** Haydn is my roommate. She is a part of the NAU Dance Team member and is a member of the Chi Omega Sorority.<br>
+**Consumer Segments:** Haydn is my roommate. She is a part of the NAU Dance Team and is a member of the Chi Omega Sorority.<br>
 
 <br>**Key Insights:**<br>
 - Appriciates a simple layout and easy navigation
@@ -148,16 +148,12 @@ the manyu feautures that clubs like the dance team or other sororities could use
 - "I think the website would be very useful if other organizations could use it too."
 
 <br>**Hypotheses (Valid or Invalid):**<br>
-- (What did they have to say that we didn't think about or what did they confirm to us that we did think about?)
+- Would really appreciate a communal calender where we could add and delete events
+- Thinks a separate question thread section would be beneficial so preciously asked questions can be found and do not have to asked again
+- Separate section to upload files/documents
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- Add and remove events (Must have)
-- Progressiont tracking (Must have)
-- Simple layout (Must have)
-- Place to uplod files/documents (Must have)
-- Separate chat on the website (Nice to have)
-- Commenting on events (Nice to have)
-- Separate section for questions only (Nice to have)
+- Overall, Haydn believes that if more generalized, the website is a must have! She thinks it is very useful to have all these features that help keep all important information for clubs in one place instead of multiple. She finds the feautres that we discussed to be unique, handy, helpful for everyone. She believes that the website is something she would definitely introduce to the organizations involved.
 
 ## Interview: 6<br>
 **Summary:** Due to busy schedules, we both decided it was better to have specific questions answered via email. Amber is VP of a fraternity organization called Kappa Kappa Psi, which specializes in helping other music ensembles on campus. For the organization's communication, they use Email for formal communication and the BAND app for informal communication. Due to being a recognized organization, they must send information through multiple people in their hierarchy before it goes where it needs to, so the speed at which that happens is very important. For a new tool like this to be implemented for them, it would have to condense and mainstream communication, document storage, and website information; otherwise, it is a "Don't Care" for them.<br>
