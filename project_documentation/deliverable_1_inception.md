@@ -130,23 +130,34 @@ Super Scouts is an easy, community-based website that allows for easy communicat
 -  Overall, Meggan listed our idea as something VERY nice to have if it existed, just because although there are many apps out there, they are hard to use and don't do the main things Meggan would like to have in one place- which is Progression Tracking, Calendars, and communication all in one place. She would very much jump on having an app that could do all these things.
 
 ## Interview: 5<br>
-**Summary:** (This is where you would summarize your interview)<br>
+**Summary:** Because Haydn has not done Scouting, we discussed the website in a more general sense and how the website can be used more generally by many other organizations such as different athletic clubs and organizations. We talked about 
+the manyu feautures that clubs like the dance team or other sororities could use such as progression tracking. Lastly, we discussed how the website would be unique and how it could be different from other similar sites/apps. <br>
 **Interviewer:** Patricia Madrid<br>
 **Interviewee** Haydn Halfacre<br>
 **Date:** September 14, 2023<br>
-**Consumer Segments:** Roommate, NAU Dance Team member<br>
+**Consumer Segments:** Haydn is my roommate. She is a part of the NAU Dance Team member and is a member of the Chi Omega Sorority.<br>
 
 <br>**Key Insights:**<br>
-- (List things you thought were interesting )
+- Appriciates a simple layout and easy navigation
+- Very useful if more general
+- Progression tracking for things such as outside training is handy
 
 <br>**Memorable Quotes:**<br>
-- ( Things we could implement and/or interesting points discussed )
+- "For added events, it would be nice to discuss/comment details right underneath the event itself."
+- "The website should be easy to navigate."
+- "I think the website would be very useful if other organizations could use it too."
 
 <br>**Hypotheses (Valid or Invalid):**<br>
 - (What did they have to say that we didn't think about or what did they confirm to us that we did think about?)
 
 <br>**Is Super Scouts! a Must/Nice/Don't Care:**<br>
-- (List what their overall thoughts were and specific features that they had a reaction to)
+- Add and remove events (Must have)
+- Progressiont tracking (Must have)
+- Simple layout (Must have)
+- Place to uplod files/documents (Must have)
+- Separate chat on the website (Nice to have)
+- Commenting on events (Nice to have)
+- Separate section for questions only (Nice to have)
 
 ## Interview: 6<br>
 **Summary:** Due to busy schedules, we both decided it was better to have specific questions answered via email. Amber is VP of a fraternity organization called Kappa Kappa Psi, which specializes in helping other music ensembles on campus. For the organization's communication, they use Email for formal communication and the BAND app for informal communication. Due to being a recognized organization, they must send information through multiple people in their hierarchy before it goes where it needs to, so the speed at which that happens is very important. For a new tool like this to be implemented for them, it would have to condense and mainstream communication, document storage, and website information; otherwise, it is a "Don't Care" for them.<br>
