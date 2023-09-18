@@ -260,7 +260,7 @@ the manyu feautures that clubs like the dance team or other sororities could use
 ## Interview: 10<br>
 **Summary:** Mr. Hong and I talked about a multitude of sub-topics ranging from message quality to available content for use. The main forms of communication Mr. Hong uses within his organization include E-mail, phone calls, texts, and face-to-face. Some current issues he has include the necessity for too many channels. I believe this is a problem in the sense that the communication is not centralized and you have to go digging for information. It's not always easily accessible.<br>
 **Interviewer:** Evan Palmisano<br>
-**Interviewee** Thom Hong<br>
+**Interviewee** Thomas Hong<br>
 **Date:** 9/16/23<br>
 **Consumer Segments:** Mr. Hong is a Council STEM Coordinator and adult staff for Ventura County Council National Youth Leadership Training<br>
 
@@ -282,10 +282,10 @@ the manyu feautures that clubs like the dance team or other sororities could use
 I interpret that as they are functionally getting by with their current form of communication and that this would be an upgrade.
 
 # Final Value Proposition and Adjusted Intended User Base<br>
-**New Value Proposition:** Super Scouts is  an intuitive, community centered website that allows for group planning and organization with a basis on progression  tracking and community events.<br>
+**New Value Proposition:** Super Scouts is  an intuitive, community-centered website that allows for group planning and organization with a basis on progression  tracking and community events.<br>
 <br>**Adjusted User Base:**<br>
-- Tech savvy people
-- Non-tech savvy people
+- Tech-savvy people
+- Non-tech-savvy people
 - Parents
 - Kids
 - Group Leaders
