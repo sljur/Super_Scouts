@@ -1,4 +1,4 @@
-# Report 2
+# Report 3
 Group 5: Super Scouts<br>
 Date and location: September 18, 2023, Cline Library, Rm 183<br>
 Present participants: ;Samantha Jurado (Manager); Dalton Tippings (Minute Taker); Evan Palmisano (QA); Ben Huntoon (QA); Patricia Madrid (Presenter/QA); Breatriz Ortega (Minute Taker);<br>
@@ -7,8 +7,8 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 
 ## Summary of Activities
 - We discussed how our interviews went and what were some of the main feedback we received. In general, we got positive feedback from our interviewees. 
-- A concern was brought up about how we would get engagement from the users. We came up with several possibilities for this. We essentially wanted something that would catch their attention and encourage them to check the site everyday.Some ideas include adding Javascript Game, streaks like SnapChat, Animal Crossing Esque idea, Wordle, or daily login points. Essentially wanted a way to reward users who are consistently on the site.
-- As a group, we brainstormed a very general idea for the main page design of the website. For our navigation bar, we wanted a calendar, files, progression tracking, communication, and home/settings. We also wanted some sort of timeline that includes a particular organization and main feed. Also need a profile button. For all the information displayed, we decided to just use fake data for now.
+- A concern was brought up about how we would get engagement from the users. We came up with several possibilities for this. We essentially wanted something that would catch their attention and encourage them to check the site every day. Some ideas include adding Javascript Games, streaks like SnapChat, Animal Crossing Esque idea, Wordle, or daily login points. Essentially wanted a way to reward users who are consistently on the site.
+- As a group, we brainstormed a very general idea for the main page design of the website. For our navigation bar, we wanted a calendar, files, progression tracking, communication, and home/settings. We also wanted some sort of timeline that includes a particular organization and main feed. Also, need a profile button. For all the information displayed, we decided to just use fake data for now.
 - We looked over Deliverable 2 to prepare and/or ask questions ahead of time.
 
 ## Project Retrospective
@@ -29,7 +29,7 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
    * We started a bit on the next deliverable. 
 
 3. Failures: 
-   * We did not really have any failures, just made changes based on what would benefit us as a group. For example, we agreed on not having a server for right now and just having our website files on GitHub as there was not much benefit for having it running constantly on a server.
+   * We did not really have any failures, just made changes based on what would benefit us as a group. For example, we agreed on not having a server for right now and just having our website files on GitHub as there was not much benefit to having it running constantly on a server.
 
 4. Barrier: 
    * Since we are all familiar with web programming, there should be little to no issues with programming the home page. The only other barrier may be properly committing to dedicated branches on GitHub.
