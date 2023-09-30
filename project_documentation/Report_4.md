@@ -1,8 +1,9 @@
 # Report 4
-Date and location: September 27, 2023, Cline Library, Rm 183
-Present participants: Samantha Jurado (Minute Taker); Dalton Tippings (QA); Evan Palmisano (Minute Taker); Ben Huntoon (QA); Patricia Madrid (Manager/QA); Breatriz Ortega (Presenter/QA)
-Missing participants: None
-Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)
+Date and location: September 27, 2023, Cline Library, Rm 183 <br>
+Present participants: Samantha Jurado (Minute Taker); Dalton Tippings (QA); Evan Palmisano (Minute Taker);<br>
+Ben Huntoon (QA); Patricia Madrid (Manager/QA); Breatriz Ortega (Presenter/QA)<br>
+Missing participants: None<br>
+Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 
 ## Summary Of Activities
 - We delved rather deeply into how we wanted to complete Deliverable 2; what needed to be decided immediately versus what could wait;
@@ -18,7 +19,7 @@ would use our product.
  them up regardless.
 
 ### Activity Checklist 
-- 1. Appreciations: 
+ 1. Appreciations: 
    * Everyone did their best to contribute to how we wanted Deliverable 2 to be formulated.
    * Evan did a good job organizing all our ideas and writing them out on the white board.
    * Ben made sure to jump start the conversation and had good ideas for how to set up the Deliverable.
