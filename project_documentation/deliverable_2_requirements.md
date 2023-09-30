@@ -20,7 +20,18 @@ Super Scout Website is an organizational website that keeps all of the organizat
 ## 4. Non-functional requirements
 
 ## 5. Minimum Viable Product
- -Calendar; can be validated by the people we've interviewed that expressed strong interrest in this feature, to see if it works the way they envisioned it.
+Our Minimmum Viable Product will consist of an online environment where
+users can create an account to host a group where community discourse and activity
+planning can be conducted. Prototyping will be the main method for testing our product,
+where we will create faux accounts and create community forums as an early test,
+eventually allowing us to produce a suitable environment for consumer testing.
+
+Future Features should include:<br>
+- Calendar; can be validated by the people we've interviewed that expressed strong interrest in this feature, to see if it works the way they envisioned it.
+- Points Of Intrest; (place your description here)
+- Photos/Media Implementation; (place your description here)
+- Messaging; (place your description here)
+- Progression Tracking; (place your description here)
 
 ## 6. Use cases
 
@@ -40,6 +51,10 @@ location, and description of the event.<br>
 
 
 ## 7. User stories
+### Group Creation
+- As a group leader I want to be able to create groups so that people in my group can join.
+- As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
+  
 ### Calendar
  - As a group leader I want to be able to input events so members know when to meet. Priority Level: Estimated Time:<br>
  - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:<br>
