@@ -10,9 +10,9 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 which parts could be split up versus what everyone needed to work on, and more importantly, how to split up the work fairly so everyone
 could partake in the workload.
 - This meant we determined that we would divide up our User Cases and Stories by what features we wished to be apart of the project long-term;
-as well as figured out that we wanted our User Stories to feature both a group leader and a group member, and thier perspectives on how they
+as well as figured out that we wanted our User Stories to feature both a group leader and a group member, and their perspectives on how they
 would use our product.
-- Determing how we wished to set up Deliverable 2 meant we only briefly discussed the index.html pages we set up.
+- Determining how we wished to set up Deliverable 2 meant we only briefly discussed the index.html pages we set up.
   
 ## Project Retrospective
 - Although we weren't able to deeply showcase our work with the index.html pages, we all agreed it was good to get some practice in setting
@@ -31,11 +31,11 @@ would use our product.
 
 2. Successes:
    * Everyone was present and accounted for, despite illness going around.
-   * We all worked on the next Deliverable, and attempted to organize it in a easy-to-manage way.
+   * We all worked on the next Deliverable, and attempted to organize it in an easy-to-manage way.
    * No arguments to be had; always very civil discussions and gentle reminders when we may have missed something.
 
 3. Failures: 
-   * No failures; we just had to stay a little later than we normally would have to make sure everyone understood hwo we were going to
+   * No failures; we just had to stay a little later than we normally would have to make sure everyone understood how we were going to
     coordinate the Deliverable to make sure it's meets the requirements.
 
 4. Barrier: 
