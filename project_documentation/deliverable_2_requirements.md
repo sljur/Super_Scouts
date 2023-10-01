@@ -35,7 +35,7 @@ Future Features should include:<br>
 
 ## 6. Use cases
 
-![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/ae626cf5-d9b3-4432-b929-58de0b960164)
+![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/088cd4df-fb91-4001-99e8-768fab9ad733)
 <br>
 **Use Case:** Calendar <br>
 **Actor:** Group Leader<br>
