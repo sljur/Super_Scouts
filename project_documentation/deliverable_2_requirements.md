@@ -34,6 +34,11 @@ Consumer segment: Organizations and their members who need their group informati
 ## 3. Functional requirements (features)
 
 ## 4. Non-functional requirements
+Some non-functional requirements that we are considering implementing for our website:
+- Speed: Optimizing the flow of our code, the speed our website loads different pages, and accessibility between different features.
+- Security: Since we want users to be able to share documents and media within the website, we need our server to be secure from penetration attacks so we can keep user files private within the website.
+- Reliability: We want our users to have access to the website full-time. Many people are on different schedules when it comes to daily life. We need the website to be running 24/7 (aside from maintenance) so our users can have reliable access.
+- Design: We want our website to be attractive. Design can make or break the number of consistent users we get participating on our platform. The better looking our website is and the more ease of access to features are present, the larger the number of returning users there is.
 
 ## 5. Minimum Viable Product
 Our Minimmum Viable Product will consist of an online environment where
@@ -122,18 +127,38 @@ location, and description of the event.<br>
 1. Members can react to other messages.<br>
 2. Members can leave the chat if they choose.<br>
 
+![Media Sharing Webpage Use Case Diagram]()<br>
+
+**Use Case:** Upload Media To Website<br>
+**Actor:** Group Leader/User<br>
+**Description:** Group Member wants to upload a photo of their last camping trip to the website.<br>
+**Preconditions:** Group Member has access to the upload feature in the Media webpage.<br>
+**Postconditions:** Group Member's photo has been uploaded and is viewable for all members.<br>
+
+**Main Flow:**<br>
+1. Group Member selects the upload feature on the media page.<br>
+2. Group Member is presented with the option to upload from device.<br>
+3. Group Memeber then selects the media they wish to upload and select upload.<br>
+4. Website checks if the media already exists.<br>
+5. Website uploads the media and makes it viewable as the most recent option within the media feed.<br>
+
+**Alternative Flow:**<br>
+1. Member uploads a piece of media with the same name and file type as one already uploaded.<br>
+2. The website recognizes this attempt and denies the user permission to upload the media in question.<br>
+3. The website then asks the user if they want to notify the group creator/leader and presents an option to send a message.<br>
+
 ## 7. User stories
 
 ### Group Creation: Very Important
 
 - As a group leader I want to be able to create groups so that people in my group can join.
-- As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
-- This should take around a week to acomplish
+- As a group member I want to be able to join a group created by my leader so that I can keep up with group activities
+- This should take around a week to accomplish
   
-### Calendar: Moderatly Important, Estimated Time: 2 weeks 
+### Calendar: Moderately Important, Estimated Time: 2 weeks 
 
  - As a group leader I want to be able to input events so members know when to meet. <br>
- - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:Estimated Time:<br>
+ - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level: Estimated Time:<br>
 
 ### Progression Tracker: Mildly Important, Estimated Time: 1 week
 
@@ -144,7 +169,13 @@ location, and description of the event.<br>
 - As a group leader, I want to be able to communicate with the group members so that everyone is informed.
 - As a group member, I want to be able to communicate with the group leader and other group members so that I know about events and other details.
 
+### Media Page: Moderately Important Estimated Time: 1 Week
+- As a parent, I want to be able to see media from events so we can have access to notable experiences for our children.
+- As a group leader, I want to have a place to store media related to the troop so I have access to promotional content to improve membership.
+
 ## 8. Issue Tracker
+
+
 
 
 
