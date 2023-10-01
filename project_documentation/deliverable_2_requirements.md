@@ -35,7 +35,7 @@ Future Features should include:<br>
 
 ## 6. Use cases
 
-![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/06c584a7-77f6-4dc0-a7d2-5309960f2fb5)
+![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/ae626cf5-d9b3-4432-b929-58de0b960164)
 <br>
 **Use Case:** Calendar <br>
 **Actor:** Group Leader<br>
@@ -52,13 +52,14 @@ location, and description of the event.<br>
 
 
 ## 7. User stories
-### Group Creation
+### Group Creation: 
 - As a group leader I want to be able to create groups so that people in my group can join.
 - As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
   
-### Calendar
- - As a group leader I want to be able to input events so members know when to meet. Priority Level: Estimated Time:<br>
- - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:<br>
+### Calendar: Moderatly Important Estimated Time: 2 weeks 
+
+ - As a group leader I want to be able to input events so members know when to meet. <br>
+ - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:Estimated Time:<br>
 
 
 ## 8. Issue Tracker
