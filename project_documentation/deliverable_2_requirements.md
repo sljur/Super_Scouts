@@ -108,7 +108,7 @@ location, and description of the event.<br>
 1. Group Leader selected a task that was already closed, PT system does not allow Group Leader to close task.<br>
 2. Task closure ran into some error, PT system leaves task open and informs Group Leader of failed task closure.<br>
 
-![Messaging](https://github.com/sljur/Super_Scouts/assets/125594817/879e650f-3d16-484f-9d5a-04c01c88eab5)<br>
+![Messaging](https://github.com/sljur/Super_Scouts/assets/116686483/169cd9d7-c9a8-4b41-bd5a-0655c693f182)<br>
 
 **Use Case:** Messaging<br>
 **Actor:** Group Leader/Group Members<br>
@@ -149,16 +149,16 @@ location, and description of the event.<br>
 
 ## 7. User stories
 
-### Group Creation: Very Important
+### Group Creation: Very Important, Estimated Time: 1 week
+- As a group leader I want to be able to create groups so that people in my group can join. <br>
+- As a group member I want to be able to join a group created by my leader so that I can keep up on group activities. <br>
 
-- As a group leader I want to be able to create groups so that people in my group can join.
-- As a group member I want to be able to join a group created by my leader so that I can keep up with group activities
-- This should take around a week to accomplish
   
 ### Calendar: Moderately Important, Estimated Time: 2 weeks 
 
  - As a group leader I want to be able to input events so members know when to meet. <br>
- - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level: Estimated Time:<br>
+ - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. <br>
+
 
 ### Progression Tracker: Mildly Important, Estimated Time: 1 week
 
