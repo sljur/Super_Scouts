@@ -70,6 +70,22 @@ location, and description of the event.<br>
 2. Site confirms name is taken.<br>
 4. Site asks User to try again.<br>
 
+![Progression Tracker Use Case Diagram](https://github.com/sljur/Super_Scouts/assets/102492570/ea1b45d7-14c4-4cf8-ba00-b6a686e1d2d5)<br>
+
+**Use Case:** Close Group Member's task in Progression Tracker<br>
+**Actor:** Group Leader<br>
+**Description:** Group Leader wants to close a Group Member's task.<br>
+**Preconditions:** Group Leader has access to Progression Tracker, at least one task is present in Progression Tracker.<br>
+**Postconditions:** A Group Member's task is closed.<br>
+
+**Main Flow:**<br>
+1. Group Leader selects a task in the Progression Tracker.<br>
+2. Group Leader selects to close that task.<br>
+3. Progression Tracker System closes task. (task is still present somewhere else as a receipt though)<br>
+
+**Alternative Flow:**<br>
+1. Group Leader selected a task that was already closed, PT system does not allow Group Leader to close task.<br>
+2. Task closure ran into some error, PT system leaves task open and informs Group Leader of failed task closure.<br>
 
 ## 7. User stories
 
@@ -84,6 +100,10 @@ location, and description of the event.<br>
  - As a group leader I want to be able to input events so members know when to meet. <br>
  - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:Estimated Time:<br>
 
+### Progression Tracker: Mildly Important Estimated Time: 1 week
+
+ - As a group leader, I want to put tasks that lead to milestones for each member, so I am able to cater to each member's track.
+ - As a group member, I want to be able to notify my group leader of a task completion, so they can close the task if they haven't already.
 
 ## 8. Issue Tracker
 
