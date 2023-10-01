@@ -13,6 +13,10 @@ Super Scout Website is an organizational website that keeps all of the organizat
 
 **Value proposition and customer segment**
 
+Value proposition: Super Scouts is an intuitive, community-centered website that allows for group planning and organization with a basis on progression tracking and community events.
+
+Consumer segment: Organizations and their members who need their group information/communication all in one place.
+
 ## 2. Stakeholders
 
 **List of Stakeholders**
