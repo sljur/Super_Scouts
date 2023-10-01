@@ -29,9 +29,14 @@ Consumer segment: Organizations and their members who need their group informati
 
 4. Detractors: Our detractors can include people against organized groups and people against technology in general, but we have no true detractors.
 
-5. Develoeprs: Our developers are Ben Huntoon, Samantha Jurado, Patricia Madrid, Beatriz Ortega, Evan Palmisano, Dalton Tippings, and the Huntoons as they offered to aid in our server.
+5. Developers: Our developers are Ben Huntoon, Samantha Jurado, Patricia Madrid, Beatriz Ortega, Evan Palmisano, Dalton Tippings, and the Huntoons as they offered to aid in our server.
 
 ## 3. Functional requirements (features)
+- HTML/JavaScript Language: For website implementation, main coding languages for most of our features.
+- C/C++ Implementation: For server/JavaScript connectivity and/or console logging.
+- Server: For hosting website itself, access outside of local hosting.
+- Domain Name: For providing the user with a more recognizable access point.
+- Computer/Phone Accessible: For more accessibility through the most common forms of teachnology: computers and smartphones.
 
 ## 4. Non-functional requirements
 Some non-functional requirements that we are considering implementing for our website:
