@@ -15,6 +15,18 @@ Super Scout Website is an organizational website that keeps all of the organizat
 
 ## 2. Stakeholders
 
+**List of Stakeholders**
+
+1. Users: Our users are inclusive to many kinds of people who need an organization app such as tech-savvy peoeple, non-tech savvy people, parents, kids, group leaders, group members, clubs, and scouts.
+
+2. Clients: Our clients mainly include group leaders and organizations that want to have effective communication with their members.
+
+3. Competitors: Our competitors include organizational and communicative websites that are similar such as ScoutBook, BAND, TeamSnap, Facebook Messenger, and Email.
+
+4. Detractors: Our detractors can include people against organized groups and people against technology in general, but we have no true detractors.
+
+5. Developers: Our developers are Ben Huntoon, Samantha Jurado, Patricia Madrid, Beatriz Ortega, Evan Palmisano, Dalton Tippins, and the Huntoons as they offered to aid in our server.
+
 ## 3. Functional requirements (features)
 
 ## 4. Non-functional requirements
