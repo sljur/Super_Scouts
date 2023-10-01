@@ -13,11 +13,32 @@ Super Scout Website is an organizational website that keeps all of the organizat
 
 **Value proposition and customer segment**
 
+Value proposition: Super Scouts is an intuitive, community-centered website that allows for group planning and organization with a basis on progression tracking and community events.
+
+Consumer segment: Organizations and their members who need their group information/communication all in one place.
+
 ## 2. Stakeholders
+
+**List of Stakeholders**
+
+1. Users: Our users are inclusive to many kinds of people who need an organizational application such as tech-savvy people, non-tech savvy people, parents, kids, group leaders, group members, clubs and scouts.
+
+2. Clients: Our clients mainly include group leaders and organizations that want to have effective communication with their members.
+
+3. Competitors: Our competitors include other organizational and communicative websites that are similar to ours such as ScoutBook, BAND, TeamSnap, Facebook Messenger, and Email.
+
+4. Detractors: Our detractors can include people against organized groups and people against technology in general, but we have no true detractors.
+
+5. Develoeprs: Our developers are Ben Huntoon, Samantha Jurado, Patricia Madrid, Beatriz Ortega, Evan Palmisano, Dalton Tippings, and the Huntoons as they offered to aid in our server.
 
 ## 3. Functional requirements (features)
 
 ## 4. Non-functional requirements
+Some non-functional requirements that we are considering implementing for our website:
+- Speed: Optimizing the flow of our code, the speed our website loads different pages, and accessibility between different features.
+- Security: Since we want users to be able to share documents and media within the website, we need our server to be secure from penetration attacks so we can keep user files private within the website.
+- Reliability: We want our users to have access to the website full-time. Many people are on different schedules when it comes to daily life. We need the website to be running 24/7 (aside from maintenance) so our users can have reliable access.
+- Design: We want our website to be attractive. Design can make or break the number of consistent users we get participating on our platform. The better looking our website is and the more ease of access to features are present, the larger the number of returning users there is.
 
 ## 5. Minimum Viable Product
 Our Minimmum Viable Product will consist of an online environment where
@@ -28,14 +49,14 @@ eventually allowing us to produce a suitable environment for consumer testing.
 
 Future Features should include:<br>
 - Calendar; can be validated by the people we've interviewed that expressed strong interrest in this feature, to see if it works the way they envisioned it.
-- Points Of Intrest; (place your description here)
-- Photos/Media Implementation; (place your description here)
-- Messaging; (place your description here)
-- Progression Tracking; (place your description here)
+- Points Of Intrest; can be shared by members or a leader to allow for landmarks, buildings and other places to be marked as important for a group, this was validated as an interesting idea in interviews and was requested by several participants.
+- Photos/Media Implementation; can be shared by anyone for the sake of fun or education and was one of the most requested features for this product.
+- Messaging; standard messaging to allow forum discussion in groups created, this was a core feature we wanted at inception and was validated by several review responses.
+- Progression Tracking; a nice to have feature intended to make the overall product more interactive and engaging, group leaders will set up milestones or achievements to allow members to earn them like badges, this was validated as important for scouting, but an interesting general idea in interviews.
 
 ## 6. Use cases
 
-![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/ae626cf5-d9b3-4432-b929-58de0b960164)
+![SS_Deliverable_UserCase_02](https://github.com/sljur/Super_Scouts/assets/116686483/088cd4df-fb91-4001-99e8-768fab9ad733)
 <br>
 **Use Case:** Calendar <br>
 **Actor:** Group Leader<br>
@@ -87,25 +108,74 @@ location, and description of the event.<br>
 1. Group Leader selected a task that was already closed, PT system does not allow Group Leader to close task.<br>
 2. Task closure ran into some error, PT system leaves task open and informs Group Leader of failed task closure.<br>
 
+![Messaging](https://github.com/sljur/Super_Scouts/assets/116686483/169cd9d7-c9a8-4b41-bd5a-0655c693f182)<br>
+
+**Use Case:** Messaging<br>
+**Actor:** Group Leader/Group Members<br>
+**Description:** Group leader can create chat where group members can send text messages to communicate.<br>
+**Preconditions:** The have a laptop, internet, an account, and a group created.<br>
+**Postconditions:** All members can send messages.<br>
+
+**Main Flow:**<br>
+1. Group Leader can create a group chat.<br>
+2. Group leader can add/delete members in the chat.<br>
+3. Group leader can change the name of the chat.<br>
+4. Successful chat creation.<br>
+5. All members in the chat can send messages.<br>
+
+**Alternative Flow:**<br>
+1. Members can react to other messages.<br>
+2. Members can leave the chat if they choose.<br>
+
+![Media Sharing Webpage Use Case Diagram]()<br>
+
+**Use Case:** Upload Media To Website<br>
+**Actor:** Group Leader/User<br>
+**Description:** Group Member wants to upload a photo of their last camping trip to the website.<br>
+**Preconditions:** Group Member has access to the upload feature in the Media webpage.<br>
+**Postconditions:** Group Member's photo has been uploaded and is viewable for all members.<br>
+
+**Main Flow:**<br>
+1. Group Member selects the upload feature on the media page.<br>
+2. Group Member is presented with the option to upload from device.<br>
+3. Group Memeber then selects the media they wish to upload and select upload.<br>
+4. Website checks if the media already exists.<br>
+5. Website uploads the media and makes it viewable as the most recent option within the media feed.<br>
+
+**Alternative Flow:**<br>
+1. Member uploads a piece of media with the same name and file type as one already uploaded.<br>
+2. The website recognizes this attempt and denies the user permission to upload the media in question.<br>
+3. The website then asks the user if they want to notify the group creator/leader and presents an option to send a message.<br>
+
 ## 7. User stories
 
-### Group Creation: Very Important
+### Group Creation: Very Important, Estimated Time: 1 week
+- As a group leader I want to be able to create groups so that people in my group can join. <br>
+- As a group member I want to be able to join a group created by my leader so that I can keep up on group activities. <br>
 
-- As a group leader I want to be able to create groups so that people in my group can join.
-- As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
-- This should take around a week to acomplish
   
-### Calendar: Moderatly Important Estimated Time: 2 weeks 
+### Calendar: Moderately Important, Estimated Time: 2 weeks 
 
  - As a group leader I want to be able to input events so members know when to meet. <br>
- - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:Estimated Time:<br>
+ - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. <br>
 
-### Progression Tracker: Mildly Important Estimated Time: 1 week
+
+### Progression Tracker: Mildly Important, Estimated Time: 1 week
 
  - As a group leader, I want to put tasks that lead to milestones for each member, so I am able to cater to each member's track.
  - As a group member, I want to be able to notify my group leader of a task completion, so they can close the task if they haven't already.
 
+### Messaging: Very Important, Estimated Time: 2-3 Weeks
+- As a group leader, I want to be able to communicate with the group members so that everyone is informed.
+- As a group member, I want to be able to communicate with the group leader and other group members so that I know about events and other details.
+
+### Media Page: Moderately Important Estimated Time: 1 Week
+- As a parent, I want to be able to see media from events so we can have access to notable experiences for our children.
+- As a group leader, I want to have a place to store media related to the troop so I have access to promotional content to improve membership.
+
 ## 8. Issue Tracker
+
+
 
 
 
