@@ -132,7 +132,7 @@ location, and description of the event.<br>
 1. Members can react to other messages.<br>
 2. Members can leave the chat if they choose.<br>
 
-![Media Sharing Webpage Use Case Diagram]()<br>
+<img src="https://github.com/sljur/Super_Scouts/assets/59185034/193d0c5a-f962-4ba3-9c6e-8fa1d5714516" width="250" height="250"><br>
 
 **Use Case:** Upload Media To Website<br>
 **Actor:** Group Leader/User<br>
@@ -142,10 +142,11 @@ location, and description of the event.<br>
 
 **Main Flow:**<br>
 1. Group Member selects the upload feature on the media page.<br>
-2. Group Member is presented with the option to upload from device.<br>
-3. Group Memeber then selects the media they wish to upload and select upload.<br>
+2. Group Member is presented with the option to upload from their device.<br>
+3. Group Member then selects the media they wish to upload and select upload.<br>
 4. Website checks if the media already exists.<br>
-5. Website uploads the media and makes it viewable as the most recent option within the media feed.<br>
+5. The website uploads the media and notifies the group leader of new media available for review.<br>
+6. The group leader reviews media and approves of it. The website makes the media viewable as the most recent option within the media feed.
 
 **Alternative Flow:**<br>
 1. Member uploads a piece of media with the same name and file type as one already uploaded.<br>
