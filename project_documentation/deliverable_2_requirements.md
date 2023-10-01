@@ -15,6 +15,18 @@ Super Scout Website is an organizational website that keeps all of the organizat
 
 ## 2. Stakeholders
 
+**List of Stakeholders**
+
+1. Users: Our users are inclusive to many kinds of people who need an organizational application such as tech-savvy people, non-tech savvy people, parents, kids, group leaders, group members, clubs and scouts.
+
+2. Clients: Our clients mainly include group leaders and organizations that want to have effective communication with their members.
+
+3. Competitors: Our competitors include other organizational and communicative websites that are similar to ours such as ScoutBook, BAND, TeamSnap, Facebook Messenger, and Email.
+
+4. Detractors: Our detractors can include people against organized groups and people against technology in general, but we have no true detractors.
+
+5. Develoeprs: Our developers are Ben Huntoon, Samantha Jurado, Patricia Madrid, Beatriz Ortega, Evan Palmisano, Dalton Tippings, and the Huntoons as they offered to aid in our server.
+
 ## 3. Functional requirements (features)
 
 ## 4. Non-functional requirements
@@ -87,6 +99,25 @@ location, and description of the event.<br>
 1. Group Leader selected a task that was already closed, PT system does not allow Group Leader to close task.<br>
 2. Task closure ran into some error, PT system leaves task open and informs Group Leader of failed task closure.<br>
 
+![Messaging](https://github.com/sljur/Super_Scouts/assets/125594817/879e650f-3d16-484f-9d5a-04c01c88eab5)<br>
+
+**Use Case:** Messaging<br>
+**Actor:** Group Leader/Group Members<br>
+**Description:** Group leader can create chat where group members can send text messages to communicate.<br>
+**Preconditions:** The have a laptop, internet, an account, and a group created.<br>
+**Postconditions:** All members can send messages.<br>
+
+**Main Flow:**<br>
+1. Group Leader can create a group chat.<br>
+2. Group leader can add/delete members in the chat.<br>
+3. Group leader can change the name of the chat.<br>
+4. Successful chat creation.<br>
+5. All members in the chat can send messages.<br>
+
+**Alternative Flow:**<br>
+1. Members can react to other messages.<br>
+2. Members can leave the chat if they choose.<br>
+
 ## 7. User stories
 
 ### Group Creation: Very Important
@@ -95,15 +126,19 @@ location, and description of the event.<br>
 - As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
 - This should take around a week to acomplish
   
-### Calendar: Moderatly Important Estimated Time: 2 weeks 
+### Calendar: Moderatly Important, Estimated Time: 2 weeks 
 
  - As a group leader I want to be able to input events so members know when to meet. <br>
  - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. Priority Level:Estimated Time:<br>
 
-### Progression Tracker: Mildly Important Estimated Time: 1 week
+### Progression Tracker: Mildly Important, Estimated Time: 1 week
 
  - As a group leader, I want to put tasks that lead to milestones for each member, so I am able to cater to each member's track.
  - As a group member, I want to be able to notify my group leader of a task completion, so they can close the task if they haven't already.
+
+### Messaging: Very Important, Estimated Time: 2-3 Weeks
+- As a group leader, I want to be able to communicate with the group members so that everyone is informed.
+- As a group member, I want to be able to communicate with the group leader and other group members so that I know about events and other details.
 
 ## 8. Issue Tracker
 
