@@ -50,11 +50,32 @@ location, and description of the event.<br>
     3. Group Leader realizes the event has been entered wrong, and they should be able to click on the event in the calender, and have the previous pop up that will allow them to edit the time, location, and the event description.<br>
     4. Group Leader determines the event itself must be deleted, in which case they will have to click the event again, and click the 'delete' button.<br>
 
+![groupCreation](https://github.com/sljur/Super_Scouts/assets/116771608/b4069ed6-f1a0-46a5-8ebb-f5a3e2e5d26c)<br>
+
+**Use Case:** Group Creation<br>
+**Actor:** User/Group Leader<br>
+**Description:** User decides to create a group.<br>
+**Preconditions:** Group of same name has not been taken.<br>
+**Postconditions:** Account has been made<br>
+
+**Main Flow:**<br>
+1. User requests a custom name.<br>
+2. Site confirms group name is free.<br>
+3. User confirms group creation.<br>
+4. Successful group creation.<br>
+5. A unique join code is given to group creator to allow for others to join.<br>
+
+**Alternative Flow:**<br>
+1. User requests a custom name.<br>
+2. Site confirms name is taken.<br>
+4. Site asks User to try again.<br>
+
 
 ## 7. User stories
-### Group Creation
+### Group Creation: Very Important
 - As a group leader I want to be able to create groups so that people in my group can join.
 - As a group member I want to be able to join a group created by my leader so that I can keep up on group activities
+- This should take around a week to acomplish
   
 ### Calendar
  - As a group leader I want to be able to input events so members know when to meet. Priority Level: Estimated Time:<br>
