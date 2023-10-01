@@ -40,10 +40,10 @@ eventually allowing us to produce a suitable environment for consumer testing.
 
 Future Features should include:<br>
 - Calendar; can be validated by the people we've interviewed that expressed strong interrest in this feature, to see if it works the way they envisioned it.
-- Points Of Intrest; (place your description here)
-- Photos/Media Implementation; (place your description here)
-- Messaging; (place your description here)
-- Progression Tracking; (place your description here)
+- Points Of Intrest; can be shared by members or a leader to allow for landmarks, buildings and other places to be marked as important for a group, this was validated as an interesting idea in interviews and was requested by several participants.
+- Photos/Media Implementation; can be shared by anyone for the sake of fun or education and was one of the most requested features for this product.
+- Messaging; standard messaging to allow forum discussion in groups created, this was a core feature we wanted at inception and was validated by several review responses.
+- Progression Tracking; a nice to have feature intended to make the overall product more interactive and engaging, group leaders will set up milestones or achievements to allow members to earn them like badges, this was validated as important for scouting, but an interesting general idea in interviews.
 
 ## 6. Use cases
 
