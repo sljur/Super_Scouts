@@ -151,7 +151,24 @@ location, and description of the event.<br>
 **Alternative Flow:**<br>
 1. Member uploads a piece of media with the same name and file type as one already uploaded.<br>
 2. The website recognizes this attempt and denies the user permission to upload the media in question.<br>
-3. The website then asks the user if they want to notify the group creator/leader and presents an option to send a message.<br>
+3. The website then asks the user if they want to notify the group creator/leader and presents an option to send a message.<be>
+
+<img src="https://github.com/sljur/Super_Scouts/assets/70121541/170d3b40-1203-4381-986c-30dd53bfcb2c" width="250" height="250">
+
+**Use Case:** Point of interest article<br>
+**Actor:** Group Leader<br>
+**Description:** Group member decides to add a point of interest article for a Location.<br>
+**Precondition:** Group member is logged in to the website.<br>
+**Postcondition:** A point of interest article is attached to a Location.<br>
+
+**Main Flow:**
+1. Group leader selects Location they want to add a point of interest.
+3. Group leader adds a point of interest with a description/location and photo on a specific Location.
+
+**Alternative Flow:**
+1. Group member selects Location they want to view.
+2. Group member can see their point of interest.
+
 
 ## 7. User stories
 
@@ -159,15 +176,11 @@ location, and description of the event.<br>
 - As a group leader I want to be able to create groups so that people in my group can join. <br>
 - As a group member I want to be able to join a group created by my leader so that I can keep up on group activities. <br>
 
-  
 ### Calendar: Moderately Important, Estimated Time: 2 weeks 
-
  - As a group leader I want to be able to input events so members know when to meet. <br>
  - As a group member, I want to be able to check what events are upcoming so I can organize my schedule. <br>
 
-
 ### Progression Tracker: Mildly Important, Estimated Time: 1 week
-
  - As a group leader, I want to put tasks that lead to milestones for each member, so I am able to cater to each member's track.
  - As a group member, I want to be able to notify my group leader of a task completion, so they can close the task if they haven't already.
 
@@ -178,6 +191,10 @@ location, and description of the event.<br>
 ### Media Page: Moderately Important Estimated Time: 1 Week
 - As a parent, I want to be able to see media from events so we can have access to notable experiences for our children.
 - As a group leader, I want to be able to filter media that is uploaded to keep our website content appropriate for all members
+
+### Point of Interest: Midly Important, Estimated Time: 1 week
+- As a group leader, I want to add a point of interest description to a Location so that others may know about it.
+- As a group member, I want to see if there is a point of interest description for a Location so that I may visit that spot.
 
 ## 8. Issue Tracker
 
