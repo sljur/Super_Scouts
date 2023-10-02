@@ -197,7 +197,11 @@ location, and description of the event.<br>
 - As a group member, I want to see if there is a point of interest description for a Location so that I may visit that spot.
 
 ## 8. Issue Tracker
+URL For Issue Tracker: https://github.com/sljur/Super_Scouts/issues
 
+![SS_ISSUE_TRACKER_02](https://github.com/sljur/Super_Scouts/assets/116686483/cbaff8e1-8fee-4a4a-bd01-cb11ff68b153) 
+
+![SS_ISSUE_TRACKER_003](https://github.com/sljur/Super_Scouts/assets/116686483/9d02449c-10cf-4e9d-a315-1da75990d00e) <br>
 
 
 
