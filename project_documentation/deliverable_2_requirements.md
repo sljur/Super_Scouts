@@ -177,7 +177,7 @@ location, and description of the event.<br>
 
 ### Media Page: Moderately Important Estimated Time: 1 Week
 - As a parent, I want to be able to see media from events so we can have access to notable experiences for our children.
-- As a group leader, I want to have a place to store media related to the troop so I have access to promotional content to improve membership.
+- As a group leader, I want to be able to filter media that is uploaded to keep our website content appropriate for all members
 
 ## 8. Issue Tracker
 
