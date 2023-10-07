@@ -25,7 +25,7 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
  1. Appreciations: 
    * Everyone did an excellent job with communication this week.
    * Evan and Dalton suggested a very clever use of C code to handle the meta-data for our server.
-   * Beatriz had a family emergency and could not make the meeting, but has done an amazing job keeping intouch and informed with this weeks plan.
+   * Beatriz had a family emergency and could not make the meeting, but has done an amazing job keeping in touch and informed with this weeks plan.
    * Patricia kept the meeting well structured and concicse with our plan for this week.
    * Sami presented our current chosen layout for our website and showed off her graphic design skills.
    * Ben set up the domain name and the server this week.
