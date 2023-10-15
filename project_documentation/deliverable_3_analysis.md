@@ -9,3 +9,6 @@ For messaging, SuperScouts will require a message hosting API like FireBase or P
 
 ## 2. Model:
 
+![SS_UML_Diagram](https://github.com/sljur/Super_Scouts/assets/116686483/35628ba0-1641-4659-9e60-02c957e76d43)
+
+
