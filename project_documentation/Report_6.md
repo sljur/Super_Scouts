@@ -16,12 +16,12 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 ### Activity Checklist 
 1. Appreciations:
     * Ben setting up the server.
-    * Patricia tkaing notes during the meeting.
+    * Patricia taking notes during the meeting.
     * Dalton transferring what we drawing on whiteboard to draw.io so we have a much nicer drawing.
     * Beatriz and Evan both pointing out how we could make the UML driagram better by altering some of the details or switching around how some things were labeled.
    
 2. Successes:
-   * Everyone pitched in thier thoughts when it came to making the UML design; whether via record keeping or pointing out things we forget about UML diagrams, or knowledge from other classes. It was a very lively discussion.
+   * Everyone pitched in their thoughts when it came to making the UML design; whether via record keeping or pointing out things we forget about UML diagrams, or knowledge from other classes. It was a very lively discussion.
    * We agreed in our last meeting to meet up this upcoming Friday to continue to work on Deliverabel 3, and that date has conitnued to hold. 
 
 3. Failures: 
@@ -31,9 +31,9 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
    * Although we've found some sites that could supplement our knowledge on both front-end and back-end development, we still need to see if we're able to link what we've learned to how the website itself needs to be linked to function properly.
 
 5. What we should try next time.
-   * We are currently in the prossses of trying something new, which is to have a check-in via Discord to work on Deliverable 3. If it goes well with no major technological issues, we may consider making it a more permanent thing. But that would be a discussion for our next meeting.
+   * We are currently in the prossses of trying something new, which is to have a check-in via Discord to work on Deliverable 3. If it goes well with no major technological issues, we may consider making it a more permanent thing, but that would be a discussion for our next meeting.
    
 ## Next Steps
 - Continue work on Deliverable 3 over the week
-- Start working on our Midterm Presentation
-- Do more research and start coding for our respective tasks and features.
+- Start working on our Midterm Presentation and assigning roles
+- Do more research and start coding for our respective tasks and features which can eventually lead to an interacctive homepage.
