@@ -25,13 +25,13 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
    * We agreed in our last meeting to meet up this upcoming Friday to continue to work on Deliverabel 3, and that date has conitnued to hold. 
 
 3. Failures: 
-   * No true failures; because of the time we all set aside to make sure we went over the Deliverable as a group instead of seperatly like with Deliverable 2, the stress to complete our Deliverable seems to be much less.
+   * No true failures; because of the time we all set aside to make sure we went over the Deliverable as a group instead of separately like with Deliverable 2, the stress to complete our Deliverable seems to be much less.
 
 4. Barrier: 
    * Although we've found some sites that could supplement our knowledge on both front-end and back-end development, we still need to see if we're able to link what we've learned to how the website itself needs to be linked to function properly.
 
 5. What we should try next time.
-   * We are currently in the prossses of trying something new, which is to have a check-in via Discord to work on Deliverable 3. If it goes well with no major technological issues, we may consider making it a more permanent thing, but that would be a discussion for our next meeting.
+   * We are currently in the process of trying something new, which is to have a check-in via Discord to work on Deliverable 3. If it goes well with no major technological issues, we may consider making it a more permanent thing, but that would be a discussion for our next meeting.
    
 ## Next Steps
 - Continue work on Deliverable 3 over the week
