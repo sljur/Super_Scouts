@@ -2,7 +2,7 @@
 Date and location: October 9, 2023, Cline Library, Rm 183 <br>
 Present participants: Samantha Jurado (Minute Taker); Dalton Tippings (Manager/QA); Evan Palmisano(QA);<br>
 Ben Huntoon (Presenter/QA); Patricia Madrid (Minute Taker); Breatriz Ortega(QA)<br>
-Missing participants: None
+Missing participants: None <br>
 Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 ## Summary Of Activities
 - The majority of the meeting was spent working on Deliverable 3 and what we should have listed as our classes, attributes, and associations. We spent a solid 40 minutes determining what should be labeled as classes, where they fell in the chain of command, what should be a Field vs Method for our UML diagram. 
