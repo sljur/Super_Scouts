@@ -17,10 +17,6 @@ SuperScouts is an intuitive, community-centered website with an emphasis on scou
    - As a leader, you will have full control over your group and have special privileges including the ones mentioned above in member usage
    - You will also have control over the progression tracking feature included with Super Scouts, which allows members to have certain titles or awards within their member profile. The flair is completely customizable to fit the group's every need.
 
-## Built With
-* [Firebase](https://rnfirebase.io/app/json-config) - Chat framework used
-* [pathshare](https://pathsha.re/professional/developers) - Location framework used
-
 ## Versioning
 ### Version 0.1.0 Alpha
 
