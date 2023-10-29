@@ -3,8 +3,23 @@
 ## Introduction:
 
 ## Implemented Requirements:
-
+1. Group Creation:
+   - Requirement: As a group leader, I want to create a group so that people in my group can join.
+   - Issue: https://github.com/sljur/Super_Scouts/issues/21
+   - Pull Request: [Commit #88](https://github.com/sljur/Super_Scouts/commit/b837e3973c6bf75978a8c324bacc62eea403d9ef)
+   - Implemented by: Benjamin Huntoon
+   - Approved by: Dalton Tippings
+     
 ### Tests:
+- Unfornutately we were only able to produce a single  test for this deliverable that being for group creation.
+1. Group Creation:
+   - The framework chosen to test the "script.js" code for the group name submission was jest with a testing environment of jsdom.
+   - Here is a link to the example test which exists when the user enters no submission: [here](https://github.com/sljur/Super_Scouts/blob/main/website/script.test.js)
+   - The example test case used in the test code asserts than when a user inputs a name it will be displayed and carried over to produce a unique group page for that name. Currently the default case when there is no user submission, the script.js will produce the same result only with the name "myGroup".
+   - Furture releases will focus on requiring user entry and preventing the same group name from being chosen more than once.
+   - Upon entering the test command this is the result:
+     ![testDemoImageSuperScouts1](https://github.com/sljur/Super_Scouts/assets/116771608/92ba8717-2a6c-4193-a6a8-1f77de5ed1da)
+
 
 ### Adopted Technologies:
 - Node.js
@@ -37,3 +52,10 @@
 ## Lessons Learned:
 
 ## Demo:
+- Please enjoy our demo of SuperScouts 0.1.0 Alpha
+
+
+https://github.com/sljur/Super_Scouts/assets/116771608/ab73c2f3-d78e-4e6e-9917-1cbe28514891
+
+
+
