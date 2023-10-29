@@ -1,6 +1,9 @@
 # Deliverable 4: Implementation 1
 
 ## Introduction:
+SuperScouts is an intuitive, community-centered website with an emphasis on scouting that allows for group planning and organization with a basis for progression tracking and community events. By consolidating an activity calendar, discussion posts, and other important information for day-to-day operations, SuperScouts effectively combats disorganization by keeping every piece of information a group needs in a single place. Once accessing the website, you are able to log into your profile and view the mentioned website features that are specific to your group. From the homepage, a timeline of events would be displayed at the side of the screen while media from recent events would be posted on the top. The navigation bar is settled towards the top of the screen which can be accessible whilst being on any page. On the left of the navigation bar contains the Homepage, the Calendar, the Chat, the Files, and the Settings while the right of the navigation bar contains the User’s Profile. Finally, to keep the engagement of the users, there will be an interactive game to monitor a user’s activity.
+
+[Super Scouts](http://superscouts.site/)
 
 ## Implemented Requirements:
 1. Group Creation:
