@@ -9,6 +9,12 @@
    - Pull Request: [Commit #88](https://github.com/sljur/Super_Scouts/commit/b837e3973c6bf75978a8c324bacc62eea403d9ef)
    - Implemented by: Benjamin Huntoon
    - Approved by: Dalton Tippings
+2. Calendar
+    - Requirement:  As a group member, I want to be able to check what events are upcoming so I can organize my schedule.
+    - Issue: https://github.com/sljur/Super_Scouts/issues/28
+    - Pull Request: [Commit #90](https://github.com/sljur/Super_Scouts/commits/bf3a78035a971aa97358af10c7a064235e1f8ae3).
+    - Implemented by: Sami Jurado
+    - Approved by: Dalton Tippings 
      
 ### Tests:
 - Unfornutately we were only able to produce a single  test for this deliverable that being for group creation.
