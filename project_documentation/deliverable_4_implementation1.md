@@ -30,6 +30,9 @@
 ![superscouts0 1 0AlphaLandingPage](https://github.com/sljur/Super_Scouts/assets/116771608/5860a250-34e4-4b66-91d2-52b601385132)
 - This is what a potential group home page would look like complete with dynamic title and display names for individual groups depending on user entry:
 ![superscouts0 1 0AlphaGroupPage](https://github.com/sljur/Super_Scouts/assets/116771608/4dc704d3-c2dc-4a1f-98a0-ce7e9741575a)
+- This is what the Calendar looks like when you click on the calendar button:
+![SS_SUPERSCOUT_CALENDAR_01](https://github.com/sljur/Super_Scouts/assets/116686483/1bc33467-5ce7-43c3-982b-b7d13ca62e1c)
+
 
 ## Lessons Learned:
 
