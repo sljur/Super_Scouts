@@ -1,7 +1,7 @@
 # Deliverable 4: Implementation 1
 
 ## Introduction:
-SuperScouts is an intuitive, community-centered website with an emphasis on scouting that allows for group planning and organization with a basis for progression tracking and community events. By consolidating an activity calendar, discussion posts, and other important information for day-to-day operations, SuperScouts effectively combats disorganization by keeping every piece of information a group needs in a single place. Once accessing the website, you are able to log into your profile and view the mentioned website features that are specific to your group. From the homepage, a timeline of events would be displayed at the side of the screen while media from recent events would be posted on the top. The navigation bar is settled towards the top of the screen which can be accessible whilst being on any page. On the left of the navigation bar contains the Homepage, the Calendar, the Chat, the Files, and the Settings while the right of the navigation bar contains the User’s Profile. Finally, to keep the engagement of the users, there will be an interactive game to monitor a user’s activity.
+- SuperScouts is an intuitive, community-centered website with an emphasis on scouting that allows for group planning and organization with a basis for progression tracking and community events. By consolidating an activity calendar, discussion posts, and other important information for day-to-day operations, SuperScouts effectively combats disorganization by keeping every piece of information a group needs in a single place. Once accessing the website, you are able to log into your profile and view the mentioned website features that are specific to your group. From the homepage, a timeline of events would be displayed at the side of the screen while media from recent events would be posted on the top. The navigation bar is settled towards the top of the screen which can be accessible whilst being on any page. On the left of the navigation bar contains the Homepage, the Calendar, the Chat, the Files, and the Settings while the right of the navigation bar contains the User’s Profile. Finally, to keep the engagement of the users, there will be an interactive game to monitor a user’s activity.
 
 [Super Scouts](http://superscouts.site/)
 
@@ -12,7 +12,7 @@ SuperScouts is an intuitive, community-centered website with an emphasis on scou
    - Pull Request: [Commit #88](https://github.com/sljur/Super_Scouts/commit/b837e3973c6bf75978a8c324bacc62eea403d9ef)
    - Implemented by: Benjamin Huntoon
    - Approved by: Dalton Tippings
-2. Calendar
+2. Calendar:
     - Requirement:  As a group member, I want to be able to check what events are upcoming so I can organize my schedule.
     - Issue: https://github.com/sljur/Super_Scouts/issues/28
     - Pull Request: [Commit #90](https://github.com/sljur/Super_Scouts/commits/bf3a78035a971aa97358af10c7a064235e1f8ae3).
@@ -56,7 +56,7 @@ For our project, we decided to use the Apache License. The Apache License, often
 
 ## Look & Feel:
    - We determined in our first couple of meetings that we wanted the website to be intuitive and clear to understand. A few of our interviewees complained about how ScoutBook was difficult to use, despite being the official app for Scouts; making sure our own website was the least easy to navigate then became a prominent point, even if the website itself was simple in looks. As a group, we settled on an easy-to-see to see navigation bar towards the top of the screen, but below the heading of the webpage. The idea was for the heading to pop out, making the navigation bar incredibly easy to find. The tabs that would hosted on the navigation bar would be blunt in this use; if the tab led to a calendar, the tab should simply be labeled as 'calendar', and the same would go for any features we wanted to add. For the main part of the homepage, we wanted a group's events to be showcased, the very top being whatever pictures were posted from the most recent event, or a reminder for an upcoming event, going backward; the further down the page you went, the further down the timeline of events you would go.
-   - This is what the landing page looks like upon initial URL search:   
+- This is what the landing page looks like upon initial URL search:   
 ![superscouts0 1 0AlphaLandingPage](https://github.com/sljur/Super_Scouts/assets/116771608/5860a250-34e4-4b66-91d2-52b601385132)
 - This is what a potential group home page would look like complete with a dynamic title and display names for individual groups depending on user entry:
 ![superscouts0 1 0AlphaGroupPage](https://github.com/sljur/Super_Scouts/assets/116771608/4dc704d3-c2dc-4a1f-98a0-ce7e9741575a)
