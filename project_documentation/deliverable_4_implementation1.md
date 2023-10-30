@@ -20,7 +20,7 @@ SuperScouts is an intuitive, community-centered website with an emphasis on scou
     - Approved by: Dalton Tippings 
      
 ### Tests:
-- Unfortunately, we were only able to produce a single  test for this deliverable that being for group creation.
+- Unfortunately, we were only able to produce a single test for this deliverable that being for group creation.
 1. Group Creation:
    - The framework chosen to test the "script.js" code for the group name submission was jest with a testing environment of jsdom.
    - Here is a link to the example test that exists when the user enters no submission: [here](https://github.com/sljur/Super_Scouts/blob/main/website/script.test.js)
@@ -38,6 +38,9 @@ SuperScouts is an intuitive, community-centered website with an emphasis on scou
 - **Hostwinds**: Hostwinds is a popular choice as our web hosting provider. Hostwinds provides high-performance hosting solutions with a focus on speed and uptime. The cost was relatively cheap making it a cost-effective choice. Hostwinds provides an easy-to-use control panel, simplifying the management of hosting resources and configurations. It also promises a high level of uptime, ensuring our web application will be available to our users consistently.
   
 ### Learning Training:
+- Since we had all already had experience with all of the adopted technologies, excluding Jest, the way we approached those was to just refresh ourselves on topics in each one, whether it was looking at past projects or searching up specific topics related to the technology online. 
+- Jest was the only one though where we had to go more in-depth with our research. For all of them though, we had used the developer’s official website to set up or learn how to set up, along with using the technologies properly, all to prevent any unnecessary errors from other external sources with a different purpose in mind.
+- We had multiple members work together on figuring out how the testing via Jest was supposed to be written, which allowed for collaboration/help to minimize misunderstanding and potential errors in our tests.
 
 ## Deployment:
 - Our project is located [here](http://superscouts.site/)
@@ -62,6 +65,7 @@ For our project, we decided to use the Apache License. The Apache License, often
 
 
 ## Lessons Learned:
+- The main lesson we learned from this release is to figure out what exactly in our code we need to test before choosing a testing framework. We had a general idea of what we needed to test in our Calendar portion of our website, but we did not anticipate that we would need to be testing what is displayed via the HTML and instead thought we could test the Calendar via the pure JavaScript. This became a problem, because what we were learning with Jest at the time was testing backend JavaScript code. Fortunately, Jest allowed us to use JSDom, a part of NodeJS which is able to test the DOM (Document Object Model) for frontend testing. In future releases, we will be looking at tests thoroughly before-hand along with ensuring that the used technology matches that criteria in order to prevent the prior from happening again.
 
 ## Demo:
 - Please enjoy our demo of SuperScouts 0.1.0 Alpha
