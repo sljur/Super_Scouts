@@ -45,6 +45,7 @@ SuperScouts is an intuitive, community-centered website with an emphasis on scou
 - In the current 0.1.0 Alpha version of our project there is little to no backend code, but we intend to more heavily focus on backend development as the project continues. 
 
 ## Licensing:
+For our project, we decided to use the Apache License. The Apache License, often referred to as the Apache License 2.0, is a permissive open-source software license that allows developers to use, modify, and distribute the covered software under certain terms and conditions. It may work well with web-related applications and elements that we utilize for our website, which is why we chose it. It allows permissive nature, compatibility, patent grant, commercial use, has no Copyleft clause, and is community-friendly.
 
 ## Readme File:
 - Please refer to the [README.md](https://github.com/sljur/Super_Scouts/blob/main/README.md) file in project files
