@@ -17,7 +17,8 @@ Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 1. Appreciations:
    * Evan is looking at game implementation.
    * Ben is working on the backend server. 
-   * Sam and Dalton for organizing what needs to be done.
+   * Sam is fixing/updating the calendar.
+   * Dalton for organizing what needs to be done.
    * Patricia and Beatriz for working on the report.
 2. Successes:
     * We all made it to the meeting.
