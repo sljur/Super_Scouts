@@ -6,13 +6,13 @@ Missing participants: None <br>
 Project repo: Super_Scouts (https://github.com/sljur/Super_Scouts)<br>
 
 ## Summary of Activities
-- We breifly assigned roles for the week.
+- We briefly assigned roles for the week.
 - Discussed the stratedgy for approaching Deliverable 5's activities.
-- Samantha and Dalton began working on the design pattern.
-- Evan began work on the sequence diagram.
+- Samantha and Dalton began working on the Design Pattern.
+- Evan began work on the Sequence Diagram.
 - Ben began work on the Design Principles.
-- Beatriz is working on the design architecture.
-- Patricia is handling the class diagram.
+- Beatriz is working on the Design Architecture.
+- Patricia is handling the Class Diagram.
   
 ## Project Retrospective
 * This week we had a lot to discuss between the deliverable and the continuation of our Agile process and prepping for our next coding sprint. With another implementation deliverable around the corner we also discussed the specific features we planned to work on this week and next as well.
