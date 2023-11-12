@@ -6,6 +6,7 @@
 ## Architecture:
 
 ## Class Diagram:
+![Class Diagram](<img width="642" alt="Del5ClassDiagram" src="https://github.com/sljur/Super_Scouts/assets/125594817/6794a6b5-945e-4e99-bafd-5138abbe0d7e">)
 
 ## Sequence Diagram:
 
