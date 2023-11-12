@@ -31,11 +31,11 @@ Project maintainers are responsible for clarifying and enforcing our standards o
 
 ## Reporting Incidents
 
-If you believe someone is violating the Code of Conduct, please report it to the project maintainers by contacting [email address or contact person]. All reports will be kept confidential, and you will not face any retaliation for reporting.
+If you believe someone is violating the Code of Conduct, please report it to the project maintainers by contacting the Super Scouts team members. All reports will be kept confidential, and you will not face any retaliation for reporting.
 
 ## Consequences
 
-Unacceptable behavior will not be tolerated in the [Your Project Name] community. If a contributor engages in unacceptable behavior, the maintainers may take appropriate action, including a warning, suspension, or permanent ban from the project, as deemed necessary.
+Unacceptable behavior will not be tolerated in the Super Scouts community. If a contributor engages in unacceptable behavior, the maintainers may take appropriate action, including a warning, suspension, or permanent ban from the project, as deemed necessary.
 
 ## Attribution
 
@@ -47,4 +47,4 @@ The essence of this Code of Conduct is to ensure that Super Scouts is an inclusi
 
 Thank you for your contribution and support.
 
-[Your Project Name] Team
+The Super Scouts Team
