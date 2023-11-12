@@ -13,7 +13,7 @@
 ## Design Patterns:
 
 ### Design Pattern 1:
-- The first Design Pattern chosen is from the Behavioral category; this was chosen because our 'Group Leader' is in charge of the 'Group' that every memeber will be linked to. When teh 'Group Leader' makes an update to the calender, every group member should be able to see the updated events.
+- The first Design Pattern chosen (Observer) is from the Behavioral category; this was chosen because our 'Group Leader' is in charge of the 'Group' that every memeber will be linked to. When the 'Group Leader' makes an update to the calender, every group member should be able to see the updated events.
     
 ![ObserverDesignPattern](https://github.com/sljur/Super_Scouts/assets/116686483/7b2f470f-e395-4ff1-9cfb-583e264e233f)
    
@@ -21,5 +21,12 @@ Group Leader: https://github.com/sljur/Super_Scouts/blob/main/website/grouphome.
 Calendar: https://github.com/sljur/Super_Scouts/blob/main/website/Calendar/script.js <br>
 
 ### Design Pattern 2:
+- The second Design Pattern chosen (Facade) is from the Structural category; this was chosen because the user only needs to interact with the PT (Progression Tracker) and does not need to worry about the interworkings of both the milestones and badges if the options needed for them are present in the PT interface directly.
 
-## Desgin Principles:
+![FacadeDesignPattern](https://github.com/sljur/Super_Scouts/assets/102492570/27a1d436-63f5-4137-be5d-49d48c88913a)
+
+Progression Tracker: https://github.com/sljur/Super_Scouts/blob/main/website/ProgressionTracker/progressTrack.js <br>
+Milestone (Class): https://github.com/sljur/Super_Scouts/blob/main/website/ProgressionTracker/milestone.js <br>
+Badge (Class): https://github.com/sljur/Super_Scouts/blob/main/website/ProgressionTracker/badge.js <br>
+
+## Design Principles:
