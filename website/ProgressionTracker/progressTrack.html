@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Progression Tracker</title>
+    <link rel="stylesheet" href="progressTrack.css">
+    <script type="module" src="progressTrack.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Progression Tracker</h1>
+      <section id="PT_Header">
+	<h2>Milestone Information</h2>
+      </section>
+      <section id="PT_Options">
+	<h2>Milestone Options</h2>
+	<div class="PT_Opt_Buttons">
+	  <button type="button" class="PT_ButtonReg" id="ButtonCreateMilestone">Create Milestone</button>
+	  <button type="button" class="PT_ButtonReg" id="ButtonRemoveMilestone">Remove Milestone</button>
+	  <button type="button" class="PT_ButtonReg" id="ButtonCreateBadge">Create Badge</button>
+	</div>
+      </section>
+      <ul id="PT_MilestoneList">
+	<h2>Milestone List</h2>
+	<!-- Milestones will be inserted here -->
+	<!-- Example Milestone -->
+	<li class="PT_Milestone">
+	  <h3>Milestone Title</h3>
+	  <p class="Milestone_Desc">Milestone Description</p>
+	  <img src="SampleIcon.jpg" />
+	  <p class="Milestone_Comp">Completed: No</p>
+	</li>
+      </ul>
+    </main>
+  </body>
+</html>
