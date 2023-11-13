@@ -12,6 +12,9 @@ Our system design consists of three layers: data, business logic, and presentati
 <img width="642" alt="Del5ClassDiagram" src="https://github.com/sljur/Super_Scouts/assets/125594817/6794a6b5-945e-4e99-bafd-5138abbe0d7e">
 
 ## Sequence Diagram:
+Use Case Description: A member wants to add an event to the group calendar. The steps to achieving this action are for the user to add an event, the group leader to be notified of an event addition request, the group leader to either approve or deny the request, and finally the requesting member to be notified of the event acceptance/rejection.
+
+![image](https://github.com/sljur/Super_Scouts/assets/59185034/a450016d-b51c-4c4c-93bf-26dae3d741d3)
 
 ## Design Patterns:
 
