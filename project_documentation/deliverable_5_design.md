@@ -24,6 +24,7 @@ Main Flow:
 3. The group leader approves the request
 4. The event is available in the calendar
 5. The group member is notified of the approved event request
+   
 Alternative Flow:
 1. The group leader rejects the request
 2. The group member is notified of the rejected event request
