@@ -12,7 +12,21 @@ Our system design consists of three layers: data, business logic, and presentati
 <img width="642" alt="Del5ClassDiagram" src="https://github.com/sljur/Super_Scouts/assets/125594817/6794a6b5-945e-4e99-bafd-5138abbe0d7e">
 
 ## Sequence Diagram:
-Use Case Description: A member wants to add an event to the group calendar. The steps to achieving this action are for the user to add an event, the group leader to be notified of an event addition request, the group leader to either approve or deny the request, and finally the requesting member to be notified of the event acceptance/rejection.
+Use Case
+Actor(s): Group Member (Primary), Group Leader (Dependent)
+Description: The group member wants to add an event to the group calendar.
+Preconditions: A personal computer, an internet connection, a SuperScouts membership, and group registration.
+Postconditions: An event request will be handled and the requesting member will be notified of the result.
+Main Flow:
+1. A group member creates an add event request
+2. The group leader is notified of the request
+3. The group leader approves the request
+4. The event is available in the calendar
+5. The group member is notified of the approved event request
+Alternative Flow:
+1. The group leader rejects the request
+2. The group member is notified of the rejected event request
+
 
 ![image](https://github.com/sljur/Super_Scouts/assets/59185034/a450016d-b51c-4c4c-93bf-26dae3d741d3)
 
