@@ -4,7 +4,7 @@
 // collect data from index.html
 document.addEventListener( 'DOMContentLoaded', () => 
 {
-  // const groupForm = document.getElementById( 'groupForm' );
+  // read user entry from page
   const nameEntryForm = document.getElementById( "nameEntryForm" )
 
   // watch for user submission of group name
