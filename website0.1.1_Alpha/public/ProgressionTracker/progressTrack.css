@@ -54,11 +54,23 @@ h2
     flex-direction: column;
 }
 
+.OptionPopUp
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.OptionPopUp h3
+{
+    text-decoration: underline;
+}
+
 #PT_MilestoneList
 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
 
 .PT_Milestone
@@ -67,7 +79,6 @@ h2
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
-    
 }
 
 .PT_Milestone h3
