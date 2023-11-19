@@ -19,12 +19,12 @@
    - Issue: https://github.com/sljur/Super_Scouts/issues/17 <br>
    - Pull Request: https://github.com/sljur/Super_Scouts/pull/136 <br>
    - Implemented by: Dalton Tippings <br>
-   - Approved by:  <br>
+   - Approved by: Patricia Madrid<br>
    - Description of Progression Tracker Implementation: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the progression tracker implementation, we wanted to focus on the functionality of the milestones inside it and allow for user customization of them. This was accomplished with the newly added options: "Create Milestone", "Remove Milestone", and "Create Badge". For the creation of a milestone, it allows for the user (acting as the group leader) to input a custom title and description, choose from created badges to be displayed with it, and input a member to be associated with it. Similarly with the creation of badges, the user can input a custom title and description, and then for the meantime select a sample icon to be used. After the milestone is created, it shows up under "Milestone Lists" for the user to see. Once a badge is created, it shows up as a badge option in the milestone creation to be used. Removing milestones is as easy as selecting the milestone title from the drop-down menu, and clicking "Remove Milestone". Though there is not much in the presentation department, we achieved the functionality that we wanted which is far more important to us. The next step following this implementation is to improve the user interface and presentation of the progression tracker.
 
 3. Server: Benjamin Huntoon
    - Requirement: As a group member I would like to be able to access my group info at any time<br>
-   - Issue: (https://github.com/sljur/Super_Scouts/issues/1) <br>
+   - Issue: https://github.com/sljur/Super_Scouts/issues/1 <br>
    - Pull Request: https://github.com/sljur/Super_Scouts/pull/125 <br>
    - Implemented by: Benjamin Huntoon <br>
    - Approved by: Sami Jurado<br>
@@ -37,10 +37,13 @@
    - Implemented by: Benjamin Huntoon <br>
    - Approved by: Sami Jurado<br>
    - Print Screen: <img width="1436" alt="Screenshot 2023-11-19 at 1 54 11 PM" src="https://github.com/sljur/Super_Scouts/assets/116771608/0fac375a-cd61-4595-bacb-3e5a5e7d1ff0">
-
+   
    - Description of Group Creation Implementation: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the release of SuperScouts version 0.1.1 Alpha, group creation was overhauled almost entirely from the original implementation. The new group creation process communicates with the server to verify a user's group name to create a new group if the name is valid and has not previously been entered or to join a group if it has already been created by a different user. The other major improvement on the group creation process is groups remain open after exiting the page, meaning that if you create a group from the SuperScouts home page, you can search superscouts.site/groups/(your group name) to be taken back to your group.
      
 ### Tests:
+- Calendar Implmentation Test Output: <br>
+![calendarTest_03](https://github.com/sljur/Super_Scouts/assets/116686483/be941bc0-1f68-46f6-af9a-f84e88bb44bc) <br>
+[Calendar Test Code](https://github.com/sljur/Super_Scouts/blob/main/website0.1.1_Alpha/test/calendar.test.js)
 - Progression Tracker Test Output:<br>
 ![image](https://github.com/sljur/Super_Scouts/assets/102492570/a6afb965-9c17-4d18-b468-2d2651942cff)<br>
 [Progression Tracker Test Code](https://github.com/sljur/Super_Scouts/blob/main/website0.1.1_Alpha/test/progressTrack.test.js)
@@ -61,7 +64,7 @@
 ## Code Quality:
 - The largest code quality process we have adopted was agreeing to use the Leverington code style, represented as a statement with one curly brace directly under, followed by the code body and the closing curly brace aligned with the first. We understand One-true-brace was taught as the generally accepted professional practice, but seeing as we had already been coding in that style we chose to stick with what we knew. To ensure quality we also adopted a policy of peer reviewing code, meaning no code commited to the main branch would be done so without at least one other person in the group reading and analyzing what had been written. As a more loose rule we tried to keep code under 80 characters a line for readability, with the understanding that for the best efficiency some line might exceed that limit. A lack of test driven development was a criticism of the last deliverable so for this sprint we have adopted a heavier reliance on testing the code as it is written with the exception of html and css files as those are displayed and most conveniently tested via a browser rather than a traditional testing environment.
 
-- Leverington code style example:
+- Leverington code style example: <br>
   if(someCondition)<br>
   {<br>
       // code goes here<br>
