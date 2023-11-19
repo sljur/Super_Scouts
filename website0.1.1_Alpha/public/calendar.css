@@ -1,22 +1,21 @@
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Quicksand", sans-serif;    
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;  
+   font-family: "Quicksand",sans-serif;     
 }
 
 html
 {
-    font-size: 62.5%; 
+   font-size:62.5%; 
 }
 
 .container
 {
     width: 100%;
     height: 100vh;
-    background-color:#12121f; /*this is to change the background color 12121f*/
-    color: #eee;              /*this is to change letter color*/
+    background-color:#12121f; 
+    color: #eee;      /*letter color*/
     display: flex;
     justify-content: center;
     align-items: center;  
@@ -24,100 +23,166 @@ html
 
 .calendar
 {
-    width: 45rem;
-    height: 52rem;
-    background-color: #222227; /*624592 purple color I like*/
-    box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 0.4);    
+  width: 85rem; /*OG: 45rem;*/
+  height: 80rem; /*OG: 52rem;*/
+  background-color: #222227; 
+  box-shadow: 0 0.5rem 3rem rgba(0,0,0,0.4);    
 }
 
 .month
 {
-    width: 100%;
-    height: 12rem;
-    background-color: #624592; /*OG color: #167e56*/
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 2rem;
-    text-align: center;
-    text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.5);
+  width: 100%;
+  height:11rem; /*OG: 12rem;*/
+  background-color: #624592; /*OG color: #167e56*/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  
+  padding: 0 2rem;
+  text-align: center;
+  text-shadow:0 0.3rem 0.5rem rgba(0,0,0,0.5);
 }
 
 .month i
 {
-    font-size: 2.5rem;
-    cursor: pointer;  
+  font-size: 2.5rem;
+  cursor:pointer;  
 }
 
 .month h1
 {
-    font-size: 3rem;
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 0.2rem;
-    margin-bottom: 1rem;  
+  font-size: 3rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  margin-bottom: 1rem;  
 }
 
 .month p
 {
-    font-size: 1.6rem;  
+   font-size: 1.6rem;  
 }
 
 .weekdays
 {
-    width: 100%;
-    height: 5rem;
-    padding: 0 0.4rem;
-    display: flex;
-    align-items: center;    
+  width: 100%; /*OG: 100%;*/
+  height: 5rem; /*OG: 5rem;*/
+  padding: 0 2rem; /*OG: 0 0.4rem;*/
+  display: flex;
+  align-items: center;    
 }
 
 .weekdays div
 {
-    font-size: 1.5rem;
-    font-weight: 400;
-    letter-spacing: 0.1rem;
-    width: calc(44.2rem/7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.5);  
+  font-size: 4rem;  /*OG: 1.5rem;*/
+  font-weight: 400;  /*OG: 400;*/
+  letter-spacing: 0.9rem;  /*OG: 0.1rem;*/
+  width: calc(220rem/16);  /*OG:calc(44.2rem/7);  
+  display: flex;
+  justify-content: center;  /*OG: center;*/
+  align-items: center;
+  text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.5);   
+  /*OG: 10 0.3rem 0.5rem rgba(0,0,0,0.5);*/
 }
 
 .days
 {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0.2rem;  
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+  padding: 0.2rem;  
 }
 
 .days div
 {
-    font-size: 1.4rem;
-    margin: 0.3rem;
-    width: calc(40.2rem/7);
-    height: 5rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.5);
-    transition: background-color 0.2s;  
+  font-size: 1.4rem;
+  margin: 0.3rem;
+  width: calc(218rem/20); /*OG: 40.2rem/7;*/ 
+  height: 10rem; /*OG: 5rem;*/
+  display: flex;
+  justify-content: start; /*OG: center;*/
+  align-items: start; /*OG: center;*/
+  text-shadow:0 0.3rem 0.5rem rgba(0,0,0,0.5); 
+  transition: background-color 0.2s;  
 }
 
 .days div:hover:not(.today)
 {
-    background-color: #624592; /*OG color: #262626*/
-    border: 0.2rem solid #777;
-    cursor: pointer;
+   background-color: #624592; /*OG color:#262626*/
+   border: 0.2rem solid #777;
+   cursor: pointer;   
 }
 
-.prev-date, .next-date
+.prev-date, 
+.next-date
 {
-    opacity:0.5;  
+  opacity:0.5;  
+    
 }
 
 .today
 {
     background-color: #624592; /*OG color: #167e56*/
+}
+
+
+/* The Modal (background) */
+.modal 
+{
+  display: none; /* Hidden by default */
+  position: absolute; /*Og: fixed;*/ 
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /*Og: 100px */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 50%; /*OG: 100%*/
+  height: 100%; /*OG: 100%*/
+  overflow: auto; /* Enable scroll if needed */
+
+}
+
+/* Modal Content */
+.modal-content 
+{
+  background-color: #557; 
+  margin: auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close 
+{
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus 
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.buttonClass
+{
+    border-radius: 20%;
+    border-color: blueviolet;
+    border-style: inherit;      
+}
+
+button:hover 
+{
+    background-color: blueviolet;
+}
+
+.candidate 
+{
+    border-radius: 20%;
+    border-color: blueviolet;
+    box-sizing: border-box;
 }
