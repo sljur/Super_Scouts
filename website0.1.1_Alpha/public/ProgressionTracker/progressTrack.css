@@ -1,0 +1,102 @@
+/* progressTrack.css */
+
+*
+{
+    box-sizing: inherit;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+}
+
+html
+{
+    box-sizing: border-box;
+}
+
+main
+{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    grid-template-rows: auto;
+    grid-template-areas:
+	"title title title"
+	"info milestones options";
+}
+
+h1
+{
+    text-align: center;
+    grid-area: title;
+}
+
+#PT_Header
+{
+    grid-area: info;
+}
+
+#PT_Options
+{
+    grid-area: options;
+}
+
+#PT_MilestoneList
+{
+    grid-area: milestones;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.PT_Opt_Buttons
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.OptionPopUp
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.OptionPopUp h3
+{
+    text-decoration: underline;
+}
+
+#PT_MilestoneList
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.PT_Milestone
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.PT_Milestone h3
+{
+    text-align: center;
+}
+
+.PT_Milestone .Milestone_Desc
+{
+    text-align: center;
+}
+
+.PT_Milestone img
+{
+    order: -1;
+}
+
+.PT_Milestone .Milestone_Comp
+{
+    text-align: center;
+}

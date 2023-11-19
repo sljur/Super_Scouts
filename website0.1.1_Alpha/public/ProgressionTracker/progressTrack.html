@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Progression Tracker</title>
+    <link rel="stylesheet" href="progressTrack.css">
+    <script type="module" src="progressTrack.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Progression Tracker</h1>
+      <section id="PT_Header">
+	<h2>Milestone Information</h2>
+      </section>
+      <section id="PT_Options">
+	<h2>Milestone Options</h2>
+	<div class="PT_Opt_Buttons">
+	  <div id="M_CreationBox" class="OptionPopUp optionOff">
+	    <h3>Milestone Creation</h3>
+	    <label for="mCreateTitle" class="InputTextNorm">
+	      Milestone Title:
+	      <input type="text" name="mCreateTitle" id="mCreateTitle">
+	    </label>
+	    <label for="mCreateDesc" class="InputTextNorm">
+	      Milestone Description:
+	      <input type="text" name="mCreateDesc" id="mCreateDesc">
+	    </label>
+	    <label for="mAssignBadge" class="InputSelNorm">
+	      Milestone's Badge:
+	      <select name="mAssignBadge" id="mAssignBadge">
+		<!-- Created badges will be put here as options -->
+	      </select>
+	    </label>
+	    <label for="mAssignMember" class="InputTextNorm">
+	      Milestone Member:
+	      <input type="text" name="mAssignMember" id="mAssignMember">
+	    </label>
+	    <button type="button" class="Opt_ButtonReg" id="ButtonCreateMilestone_Submit">Make Milestone</button>
+	  </div>
+	  <div id="M_RemovalBox" class="OptionPopUp optionOff">
+	    <h3>Milestone Removal</h3>
+	    <label for="mRemoveSel" class="InputSelNorm">
+	      Remove Milestone:
+	      <select name="mRemoveSel" id="mRemoveSel">
+		<!-- Created milestone titles will be put here as options -->
+	      </select>
+	    </label>
+	    <button type="button" class="Opt_ButtonReg" id="ButtonRemoveMilestone_Submit">Remove Milestone</button>
+	  </div>
+	  <div id="B_CreationBox" class="OptionPopUp optionOff">
+	    <h3>Badge Creation</h3>
+	    <label for="bCreateTitle" class="InputTextNorm">
+	      Badge Title:
+	      <input type="text" name="bCreateTitle" id="bCreateTitle">
+	    </label>
+	    <label for="bCreateDesc" class="InputTextNorm">
+	      Badge Description:
+	      <input type="text" name="bCreateDesc" id="bCreateDesc">
+	    </label>
+	    <label for="bAssignIcon" class="InputSelNorm">
+	      Badge Icon:
+	      <select name="bAssignIcon" id="bAssignIcon">
+		<!-- Sample icons will be put here as options -->
+	      </select>
+	    </label>
+	    <button type="button" class="Opt_ButtonReg" id="ButtonCreateBadge_Submit">Make Badge</button>
+	  </div>
+	</div>
+      </section>
+      <ul id="PT_MilestoneList">
+	<!-- Milestones will be inserted here -->
+      </ul>
+    </main>
+  </body>
+</html>
