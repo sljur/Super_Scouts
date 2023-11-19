@@ -6,7 +6,6 @@
 [Super Scouts](http://superscouts.site/)
 
 ## Implemented Requirements:
-- list your name as a header for what you implemented and then list what requirements you implemented.
 1. Calendar: Sami Jurado
    - Requirement: As a group leader I want to be able to input events so members know when to meet. <br>
    - Issue: https://github.com/sljur/Super_Scouts/issues/27 <br>
