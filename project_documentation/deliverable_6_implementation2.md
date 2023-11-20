@@ -67,7 +67,7 @@
 
 ## Demo:
 - Please enjoy our demo of SuperScouts 0.1.1 Alpha
-  demo should go here
+  ![Deliverable 6 Demo](https://github.com/sljur/Super_Scouts/assets/125594817/55025140-d648-48c8-a43b-b668c9cf3921)<br>
 
 ## Code Quality:
 - The largest code quality process we have adopted was agreeing to use the Leverington code style, represented as a statement with one curly brace directly under, followed by the code body and the closing curly brace aligned with the first. We understand One-true-brace was taught as the generally accepted professional practice, but seeing as we had already been coding in that style we chose to stick with what we knew. To ensure quality we also adopted a policy of peer reviewing code, meaning no code commited to the main branch would be done so without at least one other person in the group reading and analyzing what had been written. As a more loose rule we tried to keep code under 80 characters a line for readability, with the understanding that for the best efficiency some line might exceed that limit. A lack of test driven development was a criticism of the last deliverable so for this sprint we have adopted a heavier reliance on testing the code as it is written with the exception of html and css files as those are displayed and most conveniently tested via a browser rather than a traditional testing environment.
