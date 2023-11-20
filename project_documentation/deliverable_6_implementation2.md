@@ -39,6 +39,14 @@
    - Print Screen: <img width="1436" alt="Screenshot 2023-11-19 at 1 54 11 PM" src="https://github.com/sljur/Super_Scouts/assets/116771608/0fac375a-cd61-4595-bacb-3e5a5e7d1ff0">
    
    - Description of Group Creation Implementation: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the release of SuperScouts version 0.1.1 Alpha, group creation was overhauled almost entirely from the original implementation. The new group creation process communicates with the server to verify a user's group name to create a new group if the name is valid and has not previously been entered or to join a group if it has already been created by a different user. The other major improvement on the group creation process is groups remain open after exiting the page, meaning that if you create a group from the SuperScouts home page, you can search superscouts.site/groups/(your group name) to be taken back to your group.
+
+5. Participation: Evan Palmisano
+   - Requirement: As a group leader, I want my members to actively participate in group communication. <br>
+   - Issue: https://github.com/sljur/Super_Scouts/issues/143 <br>
+   - Pull Request: https://github.com/sljur/Super_Scouts/pull/144 <br>
+   - Implemented by: Evan Palmisano <br>
+   - Approved by: Patricia Madrid <br>
+   - Description of Participation Implementation: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication within a scouting organization can be difficult at some times (usually amongst the youth participants). In some of the interviews, the lack of youth participation was a big gripe with current communication in scouting. To fix this issue we brainstormed some ideas and eventually landed on an arcade-style page with links to multiple games available for members to play. The goal for this part of the project is to create simple, interactive games that can only be accessed based on participation and communication within the group. There is one game currently accessible called "Lights Out!". For near future implementation, we are striving to implement data storage for cool features like leader boards to promote competition within the group and in turn, increase participation rates.
      
 ### Tests:
 - Calendar Implmentation Test Output: <br>
