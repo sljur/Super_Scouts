@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lights Out!</title>
+        <link rel="stylesheet" href="lightsout.css">        
+    </head>
+
+    <div class="header">
+
+      <a href="../../grouphome.html">
+         <h1>Super Scouts</h1>
+      </a>
+      <p>For all your Organizational needs.</p>
+
+    </div>
+    
+    <div class="navbar">
+
+      <a href="../../Calendar/calendar.html">Calendar</a>
+      <a href="#">Chat</a>
+      <a href="#">Files</a>
+      <a href="../gameSelect.html">Game Hub</a>
+      <a href="#">Settings</a>
+      <a href="#" class="right">Profile</a>
+
+    </div>
+
+    <div class="content">
+
+      <div id="title">
+         <h1>Lights Out!</h1>
+      </div>
+
+      <div class="gameInfo">
+
+         <div class="infoComponent" id="newGame">
+               <button id="newGame" onclick="newGame()">New Game</button>
+         </div>
+        
+         <div class="infoComponent" id="countDiv">
+               <pre id="text">Number of moves: </pre>
+               <span id="count"></span>
+         </div>
+
+      </div>
+    
+      <body class="gameGrid" onload="newGame()"> 
+         <div id="grid">
+            <div class="row">
+                <button class="cell" id="A1"></button>
+                <button class="cell" id="A2"></button>
+                <button class="cell" id="A3"></button>
+                <button class="cell" id="A4"></button>
+                <button class="cell" id="A5"></button>
+            </div>
+            <div class="row">
+                <button class="cell" id="B1"></button>
+                <button class="cell" id="B2"></button>
+                <button class="cell" id="B3"></button>
+                <button class="cell" id="B4"></button>
+                <button class="cell" id="B5"></button>
+            </div>
+            <div class="row">
+                <button class="cell" id="C1"></button>
+                <button class="cell" id="C2"></button>
+                <button class="cell" id="C3"></button>
+                <button class="cell" id="C4"></button>
+                <button class="cell" id="C5"></button>
+            </div>
+            <div class="row">
+                <button class="cell" id="D1"></button>
+                <button class="cell" id="D2"></button>
+                <button class="cell" id="D3"></button>
+                <button class="cell" id="D4"></button>
+                <button class="cell" id="D5"></button>
+            </div>
+            <div class="row">
+                <button class="cell" id="E1"></button>
+                <button class="cell" id="E2"></button>
+                <button class="cell" id="E3"></button>
+                <button class="cell" id="E4"></button>
+                <button class="cell" id="E5"></button>
+            </div>
+            
+        </div>
+
+      </body>
+
+    </div>
+
+    <script src="lightsout.js"></script>
+</html>
