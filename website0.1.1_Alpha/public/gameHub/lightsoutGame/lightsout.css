@@ -1,0 +1,120 @@
+/* Style the header */
+.header
+{
+  padding: 30px;
+  text-align: center;
+  background: #6105F7;
+  color: white;
+}
+
+/* Style the top navigation bar */
+.navbar {
+   overflow: hidden;
+   background-color: #333;
+ }
+ 
+ /* Style the navigation bar links */
+ .navbar a {
+   float: left;
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 20px;
+   text-decoration: none;
+ }
+ 
+ /* Right-aligned link */
+ .navbar a.right {
+   float: right;
+ }
+ 
+ /* Change color on hover */
+ .navbar a:hover {
+   background-color: #ddd;
+   color: black;
+ }
+
+.content {
+   position: relative;
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+}
+
+.gameInfo {
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.infoComponent {
+   display: flex;
+   flex-direction: row;
+}
+
+#countDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+#grid { 
+    height: 400px;
+    width: 400px; 
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black; 
+}
+
+.gameGrid {
+   position: relative;
+}
+
+#title {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    font-size: 28px;
+    color: black;
+}
+
+#newGame {
+    padding: 10px;
+}
+
+#text, #count {
+    font-size: 20px;
+    color: black;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.cell {
+    height: 80px;
+    width: 80px; 
+    border: 1px solid black; 
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+   #content {   
+     flex-direction: column;
+   }
+ }
+ 
+ /* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+ @media screen and (max-width: 400px) {
+   .navbar a {
+     float: none;
+     width:100%;
+   }
+ }

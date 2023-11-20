@@ -1,0 +1,142 @@
+body 
+{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header
+{
+  padding: 30px;
+  text-align: center;
+  background: #6105F7;
+  color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 
+{
+  font-size: 40px;
+}
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Content Container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+/*Table of name entry and submission box*/
+table {
+    width: 100%;
+}
+
+/*Table Items*/
+tr {
+    display: flex;
+    justify-content: center;
+}
+
+/*Submission prompt*/
+.welcome_txt {
+    text-align: center;
+    font-size: 150%;
+}
+
+/*Text input box*/
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+}
+
+/*Submit button*/
+button[type="submit"] {
+    background-color: #6105F7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {   
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width:100%;
+  }
+}
+
+.lightsOutHover {
+   width: 200px;
+   height: 200px;
+   background-image: url(gifs/lightsout/lightsout.png);
+   background-size: 100% 100%;
+   cursor: pointer;
+}
+
+.lightsOutHover:hover {
+   background-image: url(gifs/lightsout/lightsout.gif);
+}
+
+
+#lightsOutSelect {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+}
+
+#content {
+   display: flex;
+   justify-content: center;
+   padding-top: 20px;
+}
