@@ -65,6 +65,11 @@ Calendar will give you a monthly calendar view. Members can add or remove events
 <img width="675" alt="name_test_pic" src="https://github.com/sljur/Super_Scouts/assets/116771608/6dd73797-46f0-42a9-9f61-2777f26960cd"><br>
 [Group Creation Tests](https://github.com/sljur/Super_Scouts/blob/main/website0.1.1_Alpha/test/name.test.js)<br>
 
+- Lights Out! Implementation Test Output<br>
+![image](https://github.com/sljur/Super_Scouts/assets/59185034/78aa2a6f-5c81-4f85-90c8-104617b4b1cd)<br>
+[Lights Out! Test Code](https://github.com/sljur/Super_Scouts/blob/main/website0.1.1_Alpha/test/lightsout.test.js)<br>
+
+
 ## Demo:
 - Please enjoy our demo of SuperScouts 0.1.1 Alpha
   ![Deliverable 6 Demo](https://github.com/sljur/Super_Scouts/assets/125594817/55025140-d648-48c8-a43b-b668c9cf3921)<br>
