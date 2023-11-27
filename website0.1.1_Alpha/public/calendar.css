@@ -168,6 +168,14 @@ html
   cursor: pointer;
 }
 
+.backButton
+{
+  margin-top: 1px;
+  margin-right: 2px;
+  position: absolute; 
+  top:0; 
+  left:0;
+}
 .buttonClass
 {
     border-radius: 20%;
