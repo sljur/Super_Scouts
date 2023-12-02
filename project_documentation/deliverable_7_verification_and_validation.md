@@ -19,7 +19,7 @@
  
      
 ## Acceptance Tests:
-- **Testing Framework:** Selenuim
+- **Testing Framework:** Selenium
 - **Link to Acceptance Test Folder:** [Folder](https://github.com/sljur/Super_Scouts/tree/main/website0.1.1_Alpha/test/acceptance_tests)<br>
 - **Test Example:** In [this](https://github.com/sljur/Super_Scouts/blob/main/website0.1.1_Alpha/test/acceptance_tests/acceptance_0.1.1AlphaTest.py) test, the automated test first boots up and searches for the SuperScouts.site domain. Once that is done a group name is entered and the group is created. Next the calendar is opened and returned back to the homepage. The progression tracker is then tested where test values are entered to simulate a milestone being created and then finally the milestone is create, then removed before returning back to the home screen. Finally the Game Hub is tested where the driver opens up the game hub, selects a game then resets the game before finally closing the Game Hub, returning home and completing the test.
 - **Test Execution Video:** 
