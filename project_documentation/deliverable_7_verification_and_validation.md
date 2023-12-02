@@ -73,7 +73,32 @@ Did the users’ actions produce the results they expected?
 What did the users like the most? 
 - Content will appear here!<br>
 
+### Interview: 3<br>
+**Summary:** I will put content here;<br>
+**Interviewer:** Evan Palmisano<br>
+**Interviewee** Therese Palmisano<br>
+**Date:** December 1st, 2023; Thursday at 7:30pm <br>
+**Consumer Segments:** Therese is a key member of the Boy Scout community serving as committe chair for Troop 119. She has also served as staff for National Youth Leadership Training for the BSA and has received several awards in scouting such as the Scouter of the Year, and the Distric Award of Merit.<br>
+
+<br>**Key Insights:**<br>
+- :: Soon to be added ::
+  
+<br>**Memorable Quotes:**<br>
+- [Final comments]Looks like there was a lot of thought and effort put into this
+- [Upon interacting with the progression tracker page]The progression tracker is going to be a really useful tool.
+
+<br>**Reflection:**<br>
+
+Did the users perform the tasks as you expected? <br>
+- Yes, Therese is pretty smart and was able to figure out a lot of the stuff without my guidance as the walkthrough was conducted.<br>
+
+Did the users’ actions produce the results they expected?
+- Aside from the group name creation, yes.<br>
+
+What did the users like the most? 
+- The user enjoyed the progression tracking the most.<br>
+
 Is your value proposition accomplished? 
-- Content will show up eventually!<br>
+- No, the project is still in its alpha phase and very incomplete. There is potential and a solid frame for the web app has been made, but it is a long way from becoming a viable product.<br>
 
 
