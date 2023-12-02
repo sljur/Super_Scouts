@@ -76,9 +76,38 @@ Did the users’ actions produce the results they expected?
 - Not exactly; because some of the functions, though present, don’t actually work, they were some moments of ‘Why is this not working? It looks like it should work. Where is the action?” A noticeable moment was when Dave clicked the profile button expecting to be linked to a profile page; it was the first thing he checked for, and was confused when he wasn’t linked, which was a surprise for me. I knew it was an important feature we hadn’t been able to implement, but not how much.<br>
 
 What did the users like the most? 
--  The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight up organizational website.<br>
+- The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight up organizational website.<br>
 
 Is your value proposition accomplished? 
 - Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there’ a lot of extra things we would need to add in order to make it workable fro the masses.<br>
+
+### Interview: 3<br>
+**Summary:** I will put content here;<br>
+**Interviewer:** Evan Palmisano<br>
+**Interviewee** Therese Palmisano<br>
+**Date:** December 1st, 2023; Thursday at 7:30pm <br>
+**Consumer Segments:** Therese is a key member of the Boy Scout community serving as committe chair for Troop 119. She has also served as staff for National Youth Leadership Training for the BSA and has received several awards in scouting such as the Scouter of the Year, and the Distric Award of Merit.<br>
+
+<br>**Key Insights:**<br>
+- :: Soon to be added ::
+  
+<br>**Memorable Quotes:**<br>
+- [Final comments]Looks like there was a lot of thought and effort put into this
+- [Upon interacting with the progression tracker page]The progression tracker is going to be a really useful tool.
+
+<br>**Reflection:**<br>
+
+Did the users perform the tasks as you expected? <br>
+- Yes, Therese is pretty smart and was able to figure out a lot of the stuff without my guidance as the walkthrough was conducted.<br>
+
+Did the users’ actions produce the results they expected?
+- Aside from the group name creation, yes.<br>
+
+What did the users like the most? 
+- The user enjoyed the progression tracking the most.<br>
+
+Is your value proposition accomplished? 
+- No, the project is still in its alpha phase and very incomplete. There is potential and a solid frame for the web app has been made, but it is a long way from becoming a viable product.<br>
+
 
 
