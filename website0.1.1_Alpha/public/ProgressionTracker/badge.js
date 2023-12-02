@@ -1,6 +1,6 @@
 // badge.js
 
-export class Badge
+export default class Badge
 {
     constructor(title, desc, icon)
     {

@@ -1,9 +1,9 @@
 // milestone.js
 
 // Import Class: Badge
-import {Badge} from "./badge.js"
+import Badge from "./badge.js"
 
-export class Milestone
+export default class Milestone
 {
     constructor(title, description, badge, assignee)
     {
