@@ -50,28 +50,36 @@ Is your value proposition accomplished?
 - Not entirely; Sonya compared it to be a fledgling program with solid aspects. It doesn't have the communication/social media aspects set up yet, but the fondation is there; there's a vision and remnants of where things can and should go, but it’s still in its infancy. It’s not there yet, but It could go somewhere.<br>
 
 ### Interview: 2<br>
-**Summary:** I will put content here;<br>
+**Summary:** Dave believes we hve an excellent starting point; but similar to Sonya, believes we only have a solid fondation, not the bells and whistles needed to be functional the way we need it to be to be used by a wide group of people. He equated comparing our website to a competitor, (like ScoutBook), to be comparing apples and oranges; not in the same bracket.<br>
 **Interviewer:** Sami Jurado<br>
 **Interviewee** David Jurado<br>
 **Date:** Novemeber 30th, 2023; Thrusday at 3:30pm <br>
 **Consumer Segments:** David is a parent who is a part of his daughter's cub scout committee as an event coordinator.<br>
 
 <br>**Key Insights:**<br>
-- I will input content here!
+- Dave thought it was pretty nifty that the website remmbered his previous group name and was able to get back to it; there had been an issue where he lost the page within seconds of entering the site because he clsoed the tab.
+- He though the Progression Tracker was pretty well done; not up to high-spec standards, but you can create milestones and put them into a list, which he appreciates. At one point he made a comment about imporving a fucntion fro the drop-down tab, only to realize the function already existed, he just hadn't clicked a button; at which point he told me to ignore him because clearly things were working fine.
+- Dave enjoyed the Calendar, mostly because it was pretty and looked nice, and told the correct current date. He noted that although it was also nice that he could add and remove events, was dissapointed that he couldn't insert them into the selected day. Dave remarked that the 'go back' button needed to be bigger as well.
+- The Game Hub Dave had little to discuss, mostly because he was too focused on trying to win. He thought having a game section for memebers to compete with other's in their group was an excellent idea.
   
 <br>**Memorable Quotes:**<br>
-- I will put content here!
+- [About the Progression Tracker]"This is an html interface, so our aspirations needs to be low- but you can use it; drop down boxes work. It’s a table- as for aesthetics, it works. Right now, I don’t think it’s operational- but as a test environment and something to build off of? Sure. I would use it to make a list. I don’t really have a way to rate it- sure. It’s not professional, but you’re students- you’re not getting a paycheck for this, so I’m not expecting it. Some things work, some things don’t."
+- [About the Game] "I feel a small sparking of admiration in my chest. Oh, game page 100% working, not even a question. Damnit, I hate this thing. I can’t win…"
+- [About if the Messaging Capabilities were implimented] "If the messaging stuff worked, it work make it better. Without a doubt."
 
 <br>**Reflection:**<br>
 
 Did the users perform the tasks as you expected? <br>
-- I will put content here!<br>
+- Yes; actually, Dave seemed to already be way ahead of me in adding and removing stuff, even without my explanations.<br>
 
 Did the users’ actions produce the results they expected?
-- Content will be here soon!<br>
+- Not exactly; because some of the functions, though present, don’t actually work, they were some moments of ‘Why is this not working? It looks like it should work. Where is the action?” A noticeable moment was when Dave clicked the profile button expecting to be linked to a profile page; it was the first thing he checked for, and was confused when he wasn’t linked, which was a surprise for me. I knew it was an important feature we hadn’t been able to implement, but not how much.<br>
 
 What did the users like the most? 
-- Content will appear here!<br>
+- The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight up organizational website.<br>
+
+Is your value proposition accomplished? 
+- Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there’ a lot of extra things we would need to add in order to make it workable fro the masses.<br>
 
 ### Interview: 3<br>
 **Summary:** I will put content here;<br>
@@ -100,5 +108,6 @@ What did the users like the most?
 
 Is your value proposition accomplished? 
 - No, the project is still in its alpha phase and very incomplete. There is potential and a solid frame for the web app has been made, but it is a long way from becoming a viable product.<br>
+
 
 
