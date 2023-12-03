@@ -92,17 +92,22 @@ What did the users like the most?
 - The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight-up organizational website.<br>
 
 Is your value proposition accomplished? 
-- Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there’s a lot of extra things we would need to add in order to make it workable fro the masses.<br>
+- Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there are a lot of extra things we would need to add to make it workable for the masses.<br>
 
 ### Interview: 3<br>
-**Summary:** I will put content here;<br>
+**Summary:** 
+The interviewee highlighted glitches in the group landing page, suggested improvements for progression tracking, and wanted the game to be more seasonal. They considered the project promising but felt it looked like a school project and noted the absence of a return link to the group home page from other pages.<br>
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Therese Palmisano<br>
 **Date:** December 1st, 2023; Thursday at 7:30pm <br>
 **Consumer Segments:** Therese is a key member of the Boy Scout community serving as committee chair for Troop 119. She has also served as staff for National Youth Leadership Training for the BSA and has received several awards in scouting such as the Scouter of the Year, and the Distric Award of Merit.<br>
 
 <br>**Key Insights:**<br>
-- :: Soon to be added ::
+- **User Experience Challenges:** The interview reveals significant user experience challenges, such as encountering glitches with the group landing page due to a space in the group name. This highlights the importance of the error handling and onboarding process to ensure a smooth user experience from the start.
+
+- **Feature Preferences and Game Enhancement:** The interviewee expresses mixed feelings about features, appreciating dark mode's appeal to a younger audience. They commend progression tracking but suggest expanding categories. The desire for a more seasonal and light-hearted approach to the game indicates the importance of aligning features with user preferences to enhance engagement and satisfaction.
+
+- **Perceived Project Maturity:** The interviewee's perception that the project looks more like a school project than a polished product raises concerns about its overall maturity and professionalism. This underscores the need for a refined design and user interface to instill confidence in users and foster trust in the platform's capabilities. Additionally, the absence of a return link to the group home page points to fundamental navigation issues that should be addressed to improve overall user accessibility.
   
 <br>**Memorable Quotes:**<br>
 - [Final comments]Looks like there was a lot of thought and effort put into this
