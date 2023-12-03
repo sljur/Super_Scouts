@@ -78,7 +78,7 @@ Is your value proposition accomplished?
 <br>**Memorable Quotes:**<br>
 - [About the Progression Tracker]"This is an html interface, so our aspirations needs to be low- but you can use it; drop down boxes work. It’s a table- as for aesthetics, it works. Right now, I don’t think it’s operational- but as a test environment and something to build off of? Sure. I would use it to make a list. I don’t really have a way to rate it- sure. It’s not professional, but you’re students- you’re not getting a paycheck for this, so I’m not expecting it. Some things work, some things don’t."
 - [About the Game] "I feel a small sparking of admiration in my chest. Oh, game page 100% working, not even a question. Damnit, I hate this thing. I can’t win…"
-- [About if the Messaging Capabilities were implimented] "If the messaging stuff worked, it work make it better. Without a doubt."
+- [About if the Messaging Capabilities were implimented] "If the messaging stuff worked, it would make it better. Without a doubt."
 
 <br>**Reflection:**<br>
 
