@@ -127,5 +127,35 @@ What did the users like the most?
 Is your value proposition accomplished? 
 - No, the project is still in its alpha phase and very incomplete. There is potential and a solid frame for the web app has been made, but it is a long way from becoming a viable product.<br>
 
+### Interview: 4<br>
+**Summary:** Overall, Haydn believes we have a great foundation to build off of, but thinks there are still many features that could be added that were mentioned when I first interviewed her in the beginning og the semester. However, she likes the layout of the website and thinks it has pretty easy navigation.<br>
+**Interviewer:** Patricia Madrid<br>
+**Interviewee** Haydn Halfacre<br>
+**Date:** December 1st, 2023; Friday at 3:00pm <br>
+**Consumer Segments:** Haydn is the Treasurer on the NAU Dance Team and is also an Executive Officer for the Chi Omega sorority.<br>
+
+<br>**Key Insights:**<br>
+- Likes the simple layout of the homepage as it makes it easy to navigate where everything is.
+- Enjoys the concept of the Progression Tracker but hopes to have more working features such as milestone completion. She appreciates that you can add multiple milstones, but thinks the design for the page could be better.
+- Haydn appreciates the calender and the fact that you can add and remove events. She wishes that the events would stay on the date that was selected and hoped that the events would even show up within the square it was placed in. She likes the size of the Calender as well.
+- Haydn thinks the game is a fun addition to the website. She's excited to see more games added within the game hub. On the other hand, she did not think the game was necessarily needed for her personoally because she engages a lot in these types of websites anyway.
+  
+<br>**Memorable Quotes:**<br>
+- [About the website's creation]"It is so exiciting to see how much you have done from when you first interviewed me."
+- [About the website navigation]"The website is pretty easy to navigate, but some features, need some instructions."
+
+<br>**Reflection:**<br>
+Did the users perform the tasks as you expected? 
+- Yes; however, there were some features that she needed help with such as removing an event on the calender when there are multiple events listed. She also needed a some help on creating a milestone and removing a milestone when there are multiple events.
+
+Did the users’ actions produce the results they expected?
+- For some features yes. For the calender, Haydn expected the events to be listed on the specific days and for the Progression Tracker, she was satisfied with the creation of the the milestone but expected a way to showcase completion.<br>
+
+What did the users like the most? 
+- Haydn enjoyed the Progression Tracker. She thought that it would be really useful to keep track of team progression once the program has completed features.<br>
+
+Is your value proposition accomplished? 
+- Not entirely; once again, Haydn thought that the website had a great base, but definitely needed more completed features. She also thought that adding messaging would help a lot in completing our value proposition as one of the main goals was communication.<br>
+
 
 
