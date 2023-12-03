@@ -1,6 +1,11 @@
 # Deliverable 7: Verification and Validation
 
 ## Description:
+SuperScouts is an intuitive, community-centered website with an emphasis on scouting that allows for group planning and organization with a basis for progression tracking and community events. It is still in early development, but users can sign up for SuperScouts through the web application. Upon accessing the website, users can enter a group name or find a group in which they are a member. Once in the group homepage, there is a navigation bar at the top. At this point, only the Calender, Progress, and Game Hub are the main features that have been implemented.
+
+Calendar will give the members a monthly calendar view. Members can add or remove events within the calendar. Progress is the progression tracker that keeps track of milestones and badges a member receives. It allows for the creation and removal of milestones completed by a member. As well as the creation of badges for a member. Game Hub has a puzzle game called Lights Out, where the goal is to turn off all the lights on the grid. The game is meant to improve participation as it is meant to challenge the members and attract them to visit the site more often. 
+
+[Super Scouts](http://superscouts.site/)
 
 ## Verification: 
 - ## Name Processing Test
@@ -31,17 +36,17 @@ https://github.com/sljur/Super_Scouts/assets/116771608/4c574531-8822-4406-8a3e-3
 **Summary:** Overall, Sonya believes we have an excellent foundation to build off of, but doesn't feel comfortable comparing our work with a competitor's(Scout Book) because of the difference in scale. In her opinion, if we had more time, money, and resources to add the additions to make a functional social media group website, it would be able to compete with ScoutBook. But as of right now, she doesn't consider our website functional for the purpose we intended.<br>
 **Interviewer:** Sami Jurado<br>
 **Interviewee** Sonya Jurado<br>
-**Date:** Novemeber 30th, 2023; Thrusday at 7:30pm <br>
-**Consumer Segments:** Sonya is a den leader of a cub scout pack and a committee member of that pack; she did a brief amount of time in Girl Scouts as a kid, but now has her daughters in a cub scout pack.<br>
+**Date:** November 30th, 2023; Thursday at 7:30pm <br>
+**Consumer Segments:** Sonya is a den leader of a Cub Scout pack and a committee member of that pack; she did a brief amount of time in Girl Scouts as a kid, but now has her daughters in a Cub Scout pack.<br>
 
 <br>**Key Insights:**<br>
-- Likes the fact we an just create whatver group name we want and it remembers it from a prior submission; however, she would prefer is we could see all the memebers involved in the group, and the baility to check her own profile and see the profiels of others in the group.
-- Appreciates that parts of the Progression Trackers works, but remarks that it wouldn't be completely functional as is, and would like the page to match the rest of the website. She did have fun creating her own milestones, though. She was a bit confused as to why she couldn't check them off as completed, but I explained that there should be a verification process that hasn't yet been implmeneted, so for now we only have checkmarks.Would also like to have a back button that links back tot he homepage.
-- Sonya enjoyed the Calendar, but did not like the fact this page, similar to the Progrssion Tracker, did not match the rest of the website. She determinde the calendar was a bit more functional than some other parts, partly because it does serve it's basic function- it tells you the correct date and day of the week it is, and you can see a future date. And although the add/remove funciton does not work well, it does put the event into a list; she called it a note. However, she still doesn't believe the calendar as it is fucntional the way it needs to be, just that it works.
-- The Game worked the best according to Sonya; her only issue is that she did not understand the point of it's presence in the website. Once I explained the theory behind the participation aspect- (that the more a members checked in, they would accur points, to then spend in the Game Hub and compete with others in thier group)- she got what we were trying to accomplish. Her only caveat is that there should have been instructions on how to play present next to the game, and that maybe a tutorial should have been created.
+- Likes the fact we can just create whatever group name we want and it remembers it from a prior submission; however, she would prefer is we could see all the members involved in the group, and the ability to check her own profile and see the profiles of others in the group.
+- Appreciates that parts of the Progression Trackers work, but remarks that it wouldn't be completely functional as is, and would like the page to match the rest of the website. She did have fun creating her own milestones, though. She was a bit confused as to why she couldn't check them off as completed, but I explained that there should be a verification process that hasn't yet been implemented, so for now we only have checkmarks. Would also like to have a back button that links back to the homepage.
+- Sonya enjoyed the Calendar but did not like the fact this page, similar to the Progression Tracker, did not match the rest of the website. She determined the calendar was a bit more functional than some other parts, partly because it does serve its basic function- it tells you the correct date and day of the week it is, and you can see a future date. Although the add/remove function does not work well, it does put the event into a list; she called it a note. However, she still doesn't believe the calendar as it is functional the way it needs to be, just that it works.
+- The Game worked the best according to Sonya; her only issue is that she did not understand the point of it's presence in the website. Once I explained the theory behind the participation aspect- (that the more members checked in, they would accrue points, to then spend in the Game Hub and compete with others in their group)- she got what we were trying to accomplish. Her only caveat is that there should have been instructions on how to play present next to the game and that maybe a tutorial should have been created.
   
 <br>**Memorable Quotes:**<br>
-- [About comparing our website to Scoutbook]"It feels unfair to compare the two; because it’s like comparing a baby to a full grown adult- there’s way more milestones and steps. This obviously takes a lot more work than can be seen on the outside.I know there’s more that goes into this."
+- [About comparing our website to Scoutbook]"It feels unfair to compare the two; because it’s like comparing a baby to a full grown adult- there’s way more milestones and steps. This obviously takes a lot more work than can be seen on the outside. I know there’s more that goes into this."
 - [Question: What can be changed?]"It should have a sense of cohesiveness. You can tell it’s formatted differently. I like the Game Hub page because it feels like it’s meant to be part of the same website."
 
 <br>**Reflection:**<br>
@@ -52,23 +57,23 @@ Did the users’ actions produce the results they expected?
 - There were parts they clicked on expecting a function to happen, and then surprised when it didn’t, like the calendar, the days lit up, but no event scold be placed inside.<br>
 
 What did the users like the most? 
-- She liked the game hub, in the sense that it worked, but didn’t quite see the usefulness of getting people involved in participation; probably because we haven’t set up the participation functions yet. But she also liked the calendar and figured it does serve it basic functions- just hrd to add and remove days.<br>
+- She liked the game hub, in the sense that it worked, but didn’t quite see the usefulness of getting people involved in participation; probably because we haven’t set up the participation functions yet. But she also liked the calendar and figured it does serve its basic functions- just hard to add and remove days.<br>
 
 Is your value proposition accomplished? 
-- Not entirely; Sonya compared it to be a fledgling program with solid aspects. It doesn't have the communication/social media aspects set up yet, but the fondation is there; there's a vision and remnants of where things can and should go, but it’s still in its infancy. It’s not there yet, but It could go somewhere.<br>
+- Not entirely; Sonya compared it to being a fledgling program with solid aspects. It doesn't have the communication/social media aspects set up yet, but the foundation is there; there's a vision and remnants of where things can and should go, but it’s still in its infancy. It’s not there yet, but It could go somewhere.<br>
 
 ### Interview: 2<br>
-**Summary:** Dave believes we hve an excellent starting point; but similar to Sonya, believes we only have a solid fondation, not the bells and whistles needed to be functional the way we need it to be to be used by a wide group of people. He equated comparing our website to a competitor, (like ScoutBook), to be comparing apples and oranges; not in the same bracket.<br>
+**Summary:** Dave believes we have an excellent starting point; but similar to Sonya, believes we only have a solid foundation, not the bells and whistles needed to be functional the way we need it to be used by a wide group of people. He equated comparing our website to a competitor, (like ScoutBook), to comparing apples and oranges; not in the same bracket.<br>
 **Interviewer:** Sami Jurado<br>
 **Interviewee** David Jurado<br>
-**Date:** Novemeber 30th, 2023; Thrusday at 3:30pm <br>
-**Consumer Segments:** David is a parent who is a part of his daughter's cub scout committee as an event coordinator.<br>
+**Date:** November 30th, 2023; Thursday at 3:30pm <br>
+**Consumer Segments:** David is a parent who is a part of his daughter's Cub Scout committee as an event coordinator.<br>
 
 <br>**Key Insights:**<br>
-- Dave thought it was pretty nifty that the website remmbered his previous group name and was able to get back to it; there had been an issue where he lost the page within seconds of entering the site because he clsoed the tab.
-- He though the Progression Tracker was pretty well done; not up to high-spec standards, but you can create milestones and put them into a list, which he appreciates. At one point he made a comment about imporving a fucntion fro the drop-down tab, only to realize the function already existed, he just hadn't clicked a button; at which point he told me to ignore him because clearly things were working fine.
-- Dave enjoyed the Calendar, mostly because it was pretty and looked nice, and told the correct current date. He noted that although it was also nice that he could add and remove events, was dissapointed that he couldn't insert them into the selected day. Dave remarked that the 'go back' button needed to be bigger as well.
-- The Game Hub Dave had little to discuss, mostly because he was too focused on trying to win. He thought having a game section for memebers to compete with other's in their group was an excellent idea.
+- Dave thought it was pretty nifty that the website remembered his previous group name and was able to get back to it; there had been an issue where he lost the page within seconds of entering the site because he closed the tab.
+- He thought the Progression Tracker was pretty well done; not up to high-spec standards, but you can create milestones and put them into a list, which he appreciates. At one point he made a comment about improving a function for the drop-down tab, only to realize the function already existed, he just hadn't clicked a button; at which point he told me to ignore him because clearly things were working fine.
+- Dave enjoyed the Calendar, mostly because it was pretty and looked nice, and told the correct current date. He noted that although it was also nice that he could add and remove events, was disapointed that he couldn't insert them into the selected day. Dave remarked that the 'go back' button needed to be bigger as well.
+- The Game Hub Dave had little to discuss, mostly because he was too focused on trying to win. He thought having a game section for members to compete with others in their group was an excellent idea.
   
 <br>**Memorable Quotes:**<br>
 - [About the Progression Tracker]"This is an html interface, so our aspirations needs to be low- but you can use it; drop down boxes work. It’s a table- as for aesthetics, it works. Right now, I don’t think it’s operational- but as a test environment and something to build off of? Sure. I would use it to make a list. I don’t really have a way to rate it- sure. It’s not professional, but you’re students- you’re not getting a paycheck for this, so I’m not expecting it. Some things work, some things don’t."
@@ -81,20 +86,20 @@ Did the users perform the tasks as you expected? <br>
 - Yes; actually, Dave seemed to already be way ahead of me in adding and removing stuff, even without my explanations.<br>
 
 Did the users’ actions produce the results they expected?
-- Not exactly; because some of the functions, though present, don’t actually work, they were some moments of ‘Why is this not working? It looks like it should work. Where is the action?” A noticeable moment was when Dave clicked the profile button expecting to be linked to a profile page; it was the first thing he checked for, and was confused when he wasn’t linked, which was a surprise for me. I knew it was an important feature we hadn’t been able to implement, but not how much.<br>
+- Not exactly; because some of the functions, though present, don’t actually work, there were some moments of ‘Why is this not working? It looks like it should work. Where is the action?” A noticeable moment was when Dave clicked the profile button expecting to be linked to a profile page; it was the first thing he checked and was confused when he wasn’t linked, which was a surprise for me. I knew it was an important feature we hadn’t been able to implement, but not how much.<br>
 
 What did the users like the most? 
-- The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight up organizational website.<br>
+- The game, because it was fully working; but Dave did appreciate the Calendar (Because it is pretty and showed the date) and liked that the progression tracker did at least create a list of things. But especially the game, because there was something to focus on and do. It wasn’t just a straight-up organizational website.<br>
 
 Is your value proposition accomplished? 
-- Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there’ a lot of extra things we would need to add in order to make it workable fro the masses.<br>
+- Not fully; we wanted to be able to facilitate communication between members of a group and allow communication and organization of events, but we weren’t able to implement everything to a standard where it could be fully usable as a website for what we wanted. We have a really good foundation (According to interviewee Dave, at least) but there’s a lot of extra things we would need to add in order to make it workable fro the masses.<br>
 
 ### Interview: 3<br>
 **Summary:** I will put content here;<br>
 **Interviewer:** Evan Palmisano<br>
 **Interviewee** Therese Palmisano<br>
 **Date:** December 1st, 2023; Thursday at 7:30pm <br>
-**Consumer Segments:** Therese is a key member of the Boy Scout community serving as committe chair for Troop 119. She has also served as staff for National Youth Leadership Training for the BSA and has received several awards in scouting such as the Scouter of the Year, and the Distric Award of Merit.<br>
+**Consumer Segments:** Therese is a key member of the Boy Scout community serving as committee chair for Troop 119. She has also served as staff for National Youth Leadership Training for the BSA and has received several awards in scouting such as the Scouter of the Year, and the Distric Award of Merit.<br>
 
 <br>**Key Insights:**<br>
 - :: Soon to be added ::
