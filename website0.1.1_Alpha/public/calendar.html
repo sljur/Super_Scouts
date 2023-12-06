@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
- <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
  <title>Calendar</title>
- <link rel="stylesheet" href="style.css"/> 
+ 
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <link rel="stylesheet" href="calendar.css"/> 
  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" >
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
  </head>
   <body>
-  <button class="backButton"onclick="history.back()">Go Back</button>
+  <header class="header">
+   <h1 style="font-family:sans-serif;">Calendar</h1>
+  </header>
+  <nav class="navbar">
+    <a href="../groupHome.html">Go Back</a>
+    <a href="../ProgressionTracker/progressTrack.html">Progress</a>
+    <a href="#">Chat</a>
+    <a href="../gameHub/gameSelect.html">Game Hub</a>
+    <a href="#">Settings</a>
+    <a href="#" class="right">Profile</a>
+  </nav>
+   <!--
+  <button class="backButton"onclick="history.back()">Go Back</button> 
+  -->
    <div class="container">
      <div class="calendar">
        <div class="month">
@@ -41,11 +55,15 @@
             <input type="text" id="candidate" /></input>
           </div>
         </div>
+        
         <div class="days" id="openMyModal">
+            
         </div>
+         
      </div>
     </div>
-   <script src="script.js"></script> 
+   
+   <script src="calendar.js"></script> 
   </body>
 </html> 
  
