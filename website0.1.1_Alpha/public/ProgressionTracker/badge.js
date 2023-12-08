@@ -13,5 +13,6 @@ export default class Badge
     {
 	return "<option value=\"" + this.title + "\">"
 	    + this.title + "</option>";
+
     }
 }

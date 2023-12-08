@@ -18,7 +18,8 @@ export default class Milestone
     getTitle() {return title};
     getDescription() {return description;}
 
-    closeMilestone() {hascompleted = true;}
+    closeMilestone() {this.hasCompleted = true;}
+    openMilestone() {this.hasCompleted = false;}
 
     reassignMember(givAssignee)
     {
@@ -35,10 +36,21 @@ export default class Milestone
 
     displayListFormat()
     {
-	return "<li class=\"PT_Milestone\"><h3>" + this.title +
-	    "</h3><p class=\"Milestone_Desc\">" + this.description +
-	    "</p><img src=\"" + this.badge.icon +
-	    "\" /><p class=\"Milestone_Comp\">Completed: No</p></li>";
+	let iconStr = "<div class=\"Img_Container\">" +
+	    "<img width=\"48px\" height=\"48px\" src=\"" + this.badge.icon + "\" />" +
+	    "</div>";
+	
+	let titleStr = "<h3>" + this.title + "</h3>";
+	let descriptionStr = "<p class=\"Milestone_Desc\">" + this.description + "</p>";
+	let memberStr = "<p class=\"Milestone_Member\">" + this.assignee + "</p>";
+
+	let completionStr = "<label class=\"M_CheckBox\">Completed? " +
+	    "<input type=\"checkbox\"></label></li>";
+	
+	let listItem = "<li class=\"PT_Milestone\">" + iconStr + titleStr +
+	    descriptionStr + memberStr + completionStr + "</li>";
+	
+	return listItem;
     }
 
     displayOptFormat()

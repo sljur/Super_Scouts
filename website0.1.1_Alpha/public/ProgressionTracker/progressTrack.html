@@ -6,10 +6,23 @@
     <script type="module" src="progressTrack.js"></script>
   </head>
   <body>
-    <main>
+    <header>
       <h1>Progression Tracker</h1>
-      <section id="PT_Header">
+    </header>
+    <nav class="MainNav">
+      <a href="../groupHome.html">Go Back</a>
+      <a href="../calendar.html">Calendar</a>
+      <a href="#">Chat</a>
+      <a href="../gameHub/gameSelect.html">Game Hub</a>
+      <a href="#">Settings</a>
+      <a href="#" class="right">Profile</a>
+    </nav>
+    <main>
+      <section id="PT_Info">
 	<h2>Milestone Information</h2>
+	<ul>
+	  <!-- Milestone information will be inserted here -->
+	</ul>
       </section>
       <section id="PT_Options">
 	<h2>Milestone Options</h2>
@@ -18,11 +31,11 @@
 	    <h3>Milestone Creation</h3>
 	    <label for="mCreateTitle" class="InputTextNorm">
 	      Milestone Title:
-	      <input type="text" name="mCreateTitle" id="mCreateTitle">
+	      <input type="text" name="mCreateTitle" id="mCreateTitle" maxlength="40">
 	    </label>
 	    <label for="mCreateDesc" class="InputTextNorm">
 	      Milestone Description:
-	      <input type="text" name="mCreateDesc" id="mCreateDesc">
+	      <textarea name="mCreateDesc" id="mCreateDesc" class="DescBox" maxlength="200"></textarea>
 	    </label>
 	    <label for="mAssignBadge" class="InputSelNorm">
 	      Milestone's Badge:
@@ -32,14 +45,14 @@
 	    </label>
 	    <label for="mAssignMember" class="InputTextNorm">
 	      Milestone Member:
-	      <input type="text" name="mAssignMember" id="mAssignMember">
+	      <input type="text" name="mAssignMember" id="mAssignMember" maxlength="40">
 	    </label>
 	    <button type="button" class="Opt_ButtonReg" id="ButtonCreateMilestone_Submit">Make Milestone</button>
 	  </div>
 	  <div id="M_RemovalBox" class="OptionPopUp optionOff">
 	    <h3>Milestone Removal</h3>
 	    <label for="mRemoveSel" class="InputSelNorm">
-	      Remove Milestone:
+	      Milestone Title:
 	      <select name="mRemoveSel" id="mRemoveSel">
 		<!-- Created milestone titles will be put here as options -->
 	      </select>
@@ -50,11 +63,11 @@
 	    <h3>Badge Creation</h3>
 	    <label for="bCreateTitle" class="InputTextNorm">
 	      Badge Title:
-	      <input type="text" name="bCreateTitle" id="bCreateTitle">
+	      <input type="text" name="bCreateTitle" id="bCreateTitle" maxlength="40">
 	    </label>
 	    <label for="bCreateDesc" class="InputTextNorm">
 	      Badge Description:
-	      <input type="text" name="bCreateDesc" id="bCreateDesc">
+	      <textarea type="text" name="bCreateDesc" id="bCreateDesc" class="DescBox" maxlength="200"></textarea>
 	    </label>
 	    <label for="bAssignIcon" class="InputSelNorm">
 	      Badge Icon:
@@ -66,9 +79,19 @@
 	  </div>
 	</div>
       </section>
-      <ul id="PT_MilestoneList">
-	<!-- Milestones will be inserted here -->
-      </ul>
+      <div id="PT_Milestones">
+	<section id="PT_MilestoneHeader">
+	  <h2>Milestone List</h2>
+	  <p id="badgeHead">Badge Icon</p>
+	  <p id="titleHead">Title</p>
+	  <p id="descHead">Description</p>
+	  <p id="memHead">Assigned Member</p>
+	  <p id="compHead">Completion</p>
+	</section>
+	<ul id="PT_MilestoneList">
+	  <!-- Milestones will be inserted here -->
+	</ul>
+      </div>
     </main>
   </body>
 </html>
