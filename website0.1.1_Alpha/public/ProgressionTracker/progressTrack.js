@@ -7,10 +7,12 @@ import Badge from "./badge.js"
 import * as PT from "./progressTrackDep.js"
 
 // Sample Icon List
-const SAMPLE_ICONS = ["SampleIcon.jpg"];
+const SAMPLE_ICONS = ["SampleIcon2.jpg", "SampleIcon3.jpg", "SampleIcon.jpg"];
 
 // HTML Document Items
 const MILESTONE_LIST_DOC = document.querySelector("#PT_MilestoneList");
+
+const MILESTONE_INFO = document.querySelector("#PT_Info ul");
 
 const MILESTONE_OPT_CREATE_TITLE = document.querySelector("#mCreateTitle");
 const MILESTONE_OPT_CREATE_DESC = document.querySelector("#mCreateDesc");
@@ -61,7 +63,7 @@ function userCreateMilestone()
     {
 	// Create milestone based off user inputs
 	PT.createMilestone(userTitle, userDesc, userBadge, userMember, milestoneList,
-			   MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL);
+			   MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL, MILESTONE_INFO);
     }
     
     // TODO: Implement feedback for incorrect input
@@ -72,26 +74,43 @@ function userRemoveMilestone()
     // Assign user values to variables
     let userMilestoneSel = MILESTONE_OPT_REMOVE_SEL.value;
 
-    // Acquire index of selected milestone
-    let milestoneIndex = PT.getMilestoneIndexByTitle(userMilestoneSel, milestoneList);
+    if (userMilestoneSel !== "")
+    {
+	// Acquire index of selected milestone
+	let milestoneIndex = PT.getMilestoneIndexByTitle(userMilestoneSel, milestoneList);
 
-    // Remove user's selectedd milestone
-    PT.removeMilestone(milestoneIndex, milestoneList,
-		       MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL);
+	// Remove user's selected milestone
+	PT.removeMilestone(milestoneIndex, milestoneList,
+		       MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL, MILESTONE_INFO);
+    }
 }
 
-function createSamples(bList, mList, optBadgeDisplay, mListDisplay, mOptRemSel)
+function createSamples()
 {
-    // Create a sample badge
-    let sampleBadge = PT.createBadge("Test Badge Title",
-				     "Test Badge Description",
-				     "SampleIcon.jpg", bList, MILESTONE_OPT_CREATE_BSELECT);
+    // Declare & Initialize variables
+    let badgeTitle = "Test Badge";
+    let badgeDesc = "This is a sample description for the test badge.";
+
+    let mTitle = "Test Milestone";
+    let mDesc = "This is a sample description for the test milestone.";
+    let mMember = "John Doe";
+    
+    let recentBadge;
+    
+    // For each sample icon
+    for (let iconIndex = 0; iconIndex < SAMPLE_ICONS.length; iconIndex++)
+    {
+	// Create a sample badge
+        recentBadge = PT.createBadge(badgeTitle + " " + (iconIndex + 1),
+				     badgeDesc,	SAMPLE_ICONS[iconIndex], badgeList,
+				     MILESTONE_OPT_CREATE_BSELECT);
+    }
 
     // Create a sample milestone
-    let sampleMilestone = PT.createMilestone("Test Milestone Title",
-					     "Test Milestone Description", sampleBadge,
-					     "Test Milestone Member", mList,
-					     MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL);
+    let sampleMilestone = PT.createMilestone(mTitle, mDesc, recentBadge,
+					     mMember, milestoneList,
+					     MILESTONE_LIST_DOC, MILESTONE_OPT_REMOVE_SEL,
+					     MILESTONE_INFO);
 }
 
 BUTTON_MILESTONE_CREATE.addEventListener("click", userCreateMilestone);
@@ -99,4 +118,4 @@ BUTTON_MILESTONE_REMOVE.addEventListener("click", userRemoveMilestone);
 BUTTON_BADGE_CREATE.addEventListener("click", userCreateBadge);
 
 PT.displayIconOptions(SAMPLE_ICONS, BADGE_OPT_CREATE_ICON);
-createSamples(badgeList, milestoneList);
+createSamples();

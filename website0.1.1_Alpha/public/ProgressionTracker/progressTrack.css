@@ -15,36 +15,71 @@ html
 main
 {
     display: grid;
-    grid-template-columns: 20% 60% 20%;
-    grid-template-rows: auto;
-    grid-template-areas:
-	"title title title"
-	"info milestones options";
+    grid-template-columns: 15% 65% 20%;
+    grid-template-areas: "info milestones options";
 }
 
-h1
+header
 {
-    text-align: center;
-    grid-area: title;
+    border: solid;
+    background-color: #6105F7;
 }
 
-#PT_Header
+header h1
+{
+    margin: 1em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#PT_Info
 {
     grid-area: info;
+    overflow: hidden;
+
+    border: solid;
+    border-top: none;
+    background-color: #333;
+}
+
+#PT_Info h2
+{
+    color: #FFFFFF;
+}
+
+#PT_Info ul
+{
+    margin: 1em 0.5em 0;
+    list-style-type: none;
+    padding: 10px;
+}
+
+#PT_Info ul li
+{
+    margin: 10px 0 10px;
+    padding: 5px;
+    border: solid;
+    background-color: #FFFFFF;
 }
 
 #PT_Options
 {
     grid-area: options;
+
+    border: solid;
+    border-top: none;
+    padding: 10px;
+    background-color: #333;
 }
 
-#PT_MilestoneList
+#PT_Options h2
 {
-    grid-area: milestones;
+    color: #FFFFFF;
 }
 
 h2
 {
+    margin-top: 10px;
     text-align: center;
 }
 
@@ -52,6 +87,19 @@ h2
 {
     display: flex;
     flex-direction: column;
+}
+
+.PT_Opt_Buttons div
+{
+    border: solid;
+    padding: 10px;
+    background-color: #FFFFFF;
+}
+
+.Opt_ButtonReg
+{
+    height: 35px;
+    margin-top: 1em;
 }
 
 .OptionPopUp
@@ -65,38 +113,185 @@ h2
 .OptionPopUp h3
 {
     text-decoration: underline;
+    text-align: center;
+}
+
+.OptionPopUp label
+{
+    margin-top: 0.5em;
+}
+
+.OptionPopUp label input
+{
+    width: 100%;
+}
+
+.DescBox
+{
+    width: 100%;
+    height: 125px;
+}
+
+#PT_Milestones
+{
+    grid-area: milestones;
+    overflow: hidden;
+}
+
+#PT_MilestoneHeader
+{
+    /* Should be identical to Milestone formatting */
+    display: grid;
+    grid-template-columns: 10% 25% 25% 20% 20%;
+    grid-template-areas:
+	"head head head head head"
+	"icon title desc member completion";
+
+    margin: 0 49px 0;
+}
+
+#PT_MilestoneHeader h2
+{
+    grid-area: head;
+
+    border: solid;
+    border-color: #000000;
+    color: #FFFFFF;
+    background-color: #6105F7;
+}
+
+#PT_MilestoneHeader p
+{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#badgeHead
+{
+    grid-area: icon;
+}
+
+#titleHead
+{
+    grid-area: title;
+}
+
+#descHead
+{
+    grid-area: desc;
+}
+
+#memHead
+{
+    grid-area: member;
+}
+
+#compHead
+{
+    grid-area: completion;
 }
 
 #PT_MilestoneList
 {
     display: flex;
     flex-direction: column;
+    list-style: none;
+
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .PT_Milestone
 {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 10% 25% 25% 20% 20%;
+    grid-template-areas: "icon title desc member completion";
+
+    margin: 1em;
+    border: solid;
+    border-color: #000000;
+    padding: 10px;
+    background-color: #555555;
+    filter: drop-shadow(0 0 0.5rem #6105F7);
+    color: #FFFFFF;
+}
+
+.PT_Milestone *
+{
+    color: inherit;
+    overflow: hidden;
 }
 
 .PT_Milestone h3
 {
+    grid-area: title;
     text-align: center;
 }
 
 .PT_Milestone .Milestone_Desc
 {
+    grid-area: desc;
     text-align: center;
 }
 
-.PT_Milestone img
+.PT_Milestone .Img_Container
 {
-    order: -1;
+    grid-area: icon;
 }
 
-.PT_Milestone .Milestone_Comp
+.PT_Milestone .Img_Container img
 {
+    display: block;
+    margin: auto;
+}
+
+.PT_Milestone .Milestone_Member
+{
+    grid-area: member;
     text-align: center;
+}
+
+.PT_Milestone .M_CheckBox
+{
+    grid-area: completion;
+    text-align: center;
+}
+
+.MainNav
+{
+    border-left: solid;
+    border-right: solid;
+    border-bottom: solid;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the navigation bar links */
+.MainNav a
+{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Right-aligned link */
+.MainNav a.right
+{
+    float: right;
+}
+
+/* Change color on hover */
+.MainNav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.opaque
+{
+    opacity: 0.33;
 }

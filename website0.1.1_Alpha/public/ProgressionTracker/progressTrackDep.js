@@ -16,7 +16,8 @@ export function createBadge(bTitle, bDesc, bIcon, bList, optBadgeDisplay)
     // Update badge options
     if (optBadgeDisplay !== null)
     {
-	displayBadgeOptions(bList, optBadgeDisplay);
+	// Add created badge as an option
+	addBadgeOption(curBadge, optBadgeDisplay);
     }
 
     // Return the create badge
@@ -24,7 +25,8 @@ export function createBadge(bTitle, bDesc, bIcon, bList, optBadgeDisplay)
 }
 
 export function createMilestone(mTitle, mDesc, mBadge, mMember,
-				mList, mListDisplay, mOptRemSel)
+				mList, mListDisplay, mOptRemSel,
+				mInfoDisplay)
 {
     // Create milestone based off of given parameters
     let curMilestone = new Milestone(mTitle, mDesc, mBadge, mMember);
@@ -32,34 +34,48 @@ export function createMilestone(mTitle, mDesc, mBadge, mMember,
     // Add milestone to list
     mList.push(curMilestone);
 
-    // Refresh milestone display
+    // Add milestone to display
     if (mListDisplay !== null && mOptRemSel !== null)
     {
-	displayMilestones(mList, mListDisplay, mOptRemSel)
+	displayMilestone(curMilestone, mListDisplay, mOptRemSel, mInfoDisplay);
     }
 
     // Return the milestone
     return curMilestone;
 }
 
-export function displayBadgeOptions(bList, optBadgeDisplay)
+export function updateMilestoneInfo(mInfoDisplay, mListDisplay)
 {
     // Declare & Initialize variables
-    let badgeOptsHTML = "";
-    let curBadge;
-    
-    // Loop through each badge available
-    for (let bIndex = 0; bIndex < bList.length; bIndex++)
+    let mCount = 0, mComplCount = 0;
+
+    // For every milestone in the list display
+    for (const milestone of mListDisplay.children)
     {
-	// Assign current badge
-	curBadge = bList[bIndex];
-
-	// Add badge information to be displayed
-	badgeOptsHTML += curBadge.displayOptFormat();
+	// Increment completion count if completed
+	if (milestone.classList.contains("opaque"))
+	{
+	    mComplCount++;
+	}
+	
+	// Increment milestone count
+	mCount++;
     }
+    
+    // Set milestone count string
+    let mCountStr = "<li>Milestone Count: " + mCount + "</li>";
 
+    // Set milestone completion string
+    let mComplStr = "<li>Milestone Completions: " + mComplCount + "</li>";
+    
+    // Add milestone count to the information display
+    mInfoDisplay.innerHTML = mCountStr + mComplStr;
+}
+
+export function addBadgeOption(badge, optBadgeDisplay)
+{
     // Display badge options
-    optBadgeDisplay.innerHTML = badgeOptsHTML;
+    optBadgeDisplay.innerHTML += badge.displayOptFormat();
 }
 
 export function displayIconOptions(iconList, optIconDisplay)
@@ -75,54 +91,75 @@ export function displayIconOptions(iconList, optIconDisplay)
 	curIcon = iconList[iconIndex];
 
 	// Add current icon as an available option
-	iconOptsHTML += "<option value=\"" + curIcon + "\">" + curIcon + "</option>";
+	iconOptsHTML +=  "<option value=\"" + curIcon + "\">" + curIcon + "</option>";
     }
 
     // Display icon options
     optIconDisplay.innerHTML = iconOptsHTML;
 }
 
-export function displayMilestoneOptions(mList, mOptRemSel)
+export function addMilestoneOption(milestone, mOptRemSel)
 {
-    // Declare & Initialize variables
-    let milestoneHTML = "";
-    let curMilestone;
-    
-    // For every milestone in list
-    for (let mIndex = 0; mIndex < mList.length; mIndex++)
-    {
-	// Assign current milestone
-	curMilestone = mList[mIndex];
-	
-	// Add milestone title to be displayed
-	milestoneHTML += curMilestone.displayOptFormat();
-    }
-
     // Display milestone option
-    mOptRemSel.innerHTML = milestoneHTML;
+    mOptRemSel.innerHTML += milestone.displayOptFormat();
 }
 
-export function displayMilestones(mList, mListDisplay, mOptRemSel)
+export function displayMilestone(milestone, mListDisplay, mOptRemSel, mInfoDisplay)
 {
-    // Declare & Initialize variables
-    let milestoneHTML = "";
-    let curMilestone;
-    
-    // For every milestone in list
-    for (let mIndex = 0; mIndex < mList.length; mIndex++)
+    // Display milestone information in HTML
+    mListDisplay.innerHTML += milestone.displayListFormat();
+
+    // Add milestone's checkbox functionality to all milestones
+    addCheckboxFunctionality(milestone, mInfoDisplay, mListDisplay);
+
+    // Add milestone as an option to remove
+    addMilestoneOption(milestone, mOptRemSel);
+
+    // Update milestone info
+    updateMilestoneInfo(mInfoDisplay, mListDisplay);
+}
+
+export function addCheckboxFunctionality(milestone, mInfoDisplay, mListDisplay)
+{
+    // For each milestone in display
+    for (let mDisplay of mListDisplay.children)
     {
-	// Assign current milestone
-	curMilestone = mList[mIndex];
-	
-	// Add milestone information to be displayed
-	milestoneHTML += curMilestone.displayListFormat();
+	// Get checkbox of last milestone (newly created one)
+	let checkbox = mDisplay.children[4];
+
+	// Add event listener for checkCompletion
+	checkbox.addEventListener("click",
+	    function() { checkCompletion(milestone, mDisplay, checkbox, mInfoDisplay, mListDisplay); });
+    }
+}
+
+export function checkCompletion(milestone, mDisplay, checkbox, mInfoDisplay, mListDisplay)
+{
+    // Check that the checkbox value does not match milestone's completion
+    let boxChecked = checkbox.children[0].checked;
+
+    // Check if checkbox was checked
+    if (boxChecked)
+    {
+	// Close the milestone
+	milestone.closeMilestone();
+
+	// Add opaque nature to milestone's display
+	mDisplay.classList.add("opaque");
     }
 
-    // Display milestone information in HTML
-    mListDisplay.innerHTML = "<h2>Milestone List</h2>" + milestoneHTML;
+    // Otherwise, assume it was unchecked
+    else
+    {
+	// Open the milestone
+	milestone.openMilestone();
 
-    // Refresh milestone options
-    displayMilestoneOptions(mList, mOptRemSel);
+	// Remove opaque nature from milestone's display
+	mDisplay.classList.remove("opaque");
+    }
+
+    // Update the milestone info
+    updateMilestoneInfo(mInfoDisplay, mListDisplay);
 }
 
 export function getBadgeByTitle(bTitle, bList)
@@ -193,11 +230,19 @@ export function getMilestonesOfMember(mMember, mList)
     return milestonesMember;
 }
 
-export function removeMilestone(mRemoveIndex, mList, mListDisplay, mOptRemSel)
+export function removeMilestone(mRemoveIndex, mList, mListDisplay, mOptRemSel, mInfoDisplay)
 {
     // Remove milestone from list
     mList.splice(mRemoveIndex, 1);
 
-    // Refresh milestone display
-    displayMilestones(mList, mListDisplay, mOptRemSel)
+    // Remove milestone from milestone display
+    let milestoneDisp = mListDisplay.children[mRemoveIndex];
+    mListDisplay.removeChild(milestoneDisp);
+
+    // Remove milestone from remove selection
+    let milestoneOpt = mOptRemSel.children[mRemoveIndex];
+    mOptRemSel.removeChild(milestoneOpt);
+
+    // Update the milestone info
+    updateMilestoneInfo(mInfoDisplay, mListDisplay);
 }
